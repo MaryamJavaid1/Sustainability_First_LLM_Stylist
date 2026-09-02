@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups / scratch use git history instead of *.backup files
+*.backup
+*.backup_v*
+*_old.py
+*_copy.py
+
+# Data (large, and derivable by re-running the pipeline)
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Generated outputs (re-creatable by running the pipeline)
+outputs/*.png
+outputs/*.jsonl
+outputs/*.txt
+outputs/pipeline_run.log
+!outputs/.gitkeep
+
+
+# Streamlit local config/secrets
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Garment images (5.9GB, regenerable via src/10_collect_wardrobe_images.py
+# from the Kaggle source dataset see APP_README.md)
+app/assets/garments/*.jpg
+!app/assets/garments/.gitkeep
+
+
+# Local Ollama model deployments (multi-GB .gguf files, regenerable via Colab export)
+
+rewear-ollama/*.gguf
+rewear-ollama-q8/*.gguf
+
+# Explicitly keep the actual constructed fine-tuning datasets tracked,
+# even though outputs/*.jsonl excludes JSONL files generally
+!outputs/prompt_response_pairs.jsonl
+!outputs/baseline_prompt_response_pairs.jsonl
+!data/processed/wardrobe_scored.csv

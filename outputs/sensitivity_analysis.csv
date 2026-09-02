@@ -1,0 +1,5 @@
+scenario,mean_score,std_score,spearman_vs_baseline,top100_overlap_pct_vs_baseline
+baseline,4.745,0.892,1.0,100.0
+material_focus,4.809,0.682,0.981,82.0
+reuse_focus,4.791,1.514,0.9394,91.0
+equal_weights,4.419,1.14,0.9183,89.0

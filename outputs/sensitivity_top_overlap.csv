@@ -1,0 +1,5 @@
+scenario,top100_kept_from_baseline,top100_total,top100_overlap_pct
+baseline,100,100,100.0
+material_focus,82,100,82.0
+reuse_focus,91,100,91.0
+equal_weights,89,100,89.0

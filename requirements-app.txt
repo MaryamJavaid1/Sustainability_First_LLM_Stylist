@@ -1,0 +1,12 @@
+# Web-app dependencies (in addition to requirements.txt).
+# Install with:  pip install -r requirements-app.txt
+#
+# streamlit         the web interface framework
+# google-generativeai Google Gemini SDK (only needed if you use live AI;
+#                       the app runs fine on the rule-based engine without it)
+
+# Web-app dependencies
+
+streamlit==1.41.1
+google-generativeai==0.8.3
+python-dotenv

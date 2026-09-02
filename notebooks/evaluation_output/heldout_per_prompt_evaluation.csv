@@ -1,0 +1,1340 @@
+prompt_id,prompt,reference_target,fine_tuned_response,base_response,fine_tuned_reuse,fine_tuned_automated_buys_new,fine_tuned_manual_buys_new,fine_tuned_sustainability_keyword_matches,base_reuse,base_automated_buys_new,base_manual_buys_new,base_sustainability_keyword_matches,max_new_tokens,do_sample,attention_mask_passed
+0,"User Request: I have a casual lunch today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Scullers For Her Beige Trousers [Category: Bottomwear, Season: Summer] (Material: polyester|viscose|elastane, Worn: 139 times, Score: 5.22)
+- Little Miss Women Printed Purple T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 1 times, Score: 3.9)
+- Flying Machine Women Up Away White Tshirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 21 times, Score: 4.18)
+- Arrow Woman Women Pink Shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 13 times, Score: 3.89)
+- Vishudh Women Blue Printed Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 27 times, Score: 4.12)
+- s.Oliver Women Solid Pink Sweater [Category: Topwear, Season: Fall] (Material: cotton, Worn: 86 times, Score: 5.6)
+- Elle Cream Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 27 times, Score: 4.29)
+- Biba Women Black Churidar Kurta with Dupatta [Category: Apparel Set, Season: Summer] (Material: cotton, Worn: 71 times, Score: 5.32)
+- Fabindia Women Printed Off White & Green Dupatta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 58 times, Score: 4.72)
+- Fabindia Brown Hand Printed Sari [Category: Saree, Season: Fall] (Material: cotton, Worn: 9 times, Score: 3.79)
+- BIBA Women Solid Blue Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 103 times, Score: 5.93)
+- BIBA Women Printed Pink Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 54 times, Score: 5.1)
+- BIBA Women Printed White Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 23 times, Score: 3.2)
+- Folklore Women Maroon Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 74 times, Score: 5.14)
+- ONLY Women Brown Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 16 times, Score: 3.73)","I recommend wearing your s.Oliver Women Solid Pink Sweater (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 86 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your BIBA Women Solid Blue Kurta (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 103 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch in Fall:
+
+* Top: Flying Machine Women Up Away White Tshirt (Category: Topwear, Season: Fall) (Material: cotton|polyester, Worn: 21 times, Score: 4.18)
+* Bottom: BIBA Women Solid Blue Kurta (Category: Topwear, Season: Fall) (Material: cotton, Worn: 103 times, Score: 5.93)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes the environmental impact of production, transportation, and packaging.
+2. Lower-impact materials: Both the Flying Machine Women Up Away White Tshirt and BIBA Women Solid Blue Kurta are made from cotton, a natural, biodegradable, and renewable resource. Cotton is also a more sustainable choice compared",True,False,,6,True,True,,7,200,False,True
+1,"User Request: I have a university class today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Flying Machine Men White Polo Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 110 times, Score: 5.92)
+- Indigo Nation Men Checks Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 32 times, Score: 3.54)
+- Quiksilver Men Navy Blue Check Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 28 times, Score: 4.47)
+- Locomotive Men Solid Poplin Laidley Purple Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 148 times, Score: 5.17)
+- United Colors of Benetton Men Solid Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 38 times, Score: 4.62)
+- Arrow Sport Men Brown Trousers [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 63 times, Score: 4.81)
+- Levis Men Blue Brief [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 48 times, Score: 3.72)
+- Hanes Men Black Muscle Duo Dry Cotton Stretch Muscle T-shirt [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 25 times, Score: 4.41)
+- Wrangler Men Green Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 95 times, Score: 5.55)
+- Status Quo Men Navy Blue Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 36 times, Score: 4.46)
+- Tantra Men's Super Heros Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 92 times, Score: 7.02)
+- Basics Men White Slim Fit Striped Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 96 times, Score: 5.88)
+- Myntra Men Made In India Off White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 121 times, Score: 6.06)
+- United Colors of Benetton Men Printed Purple Tshirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 104 times, Score: 6.0)
+- Wrangler Men Ride Black Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 21 times, Score: 4.34)","I recommend wearing your Flying Machine Men White Polo Tshirts (cotton) paired with your Arrow Sport Men Brown Trousers (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 173 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Flying Machine Men White Polo Tshirts (cotton) paired with your Arrow Sport Men Brown Trousers (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 173 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: Flying Machine Men White Polo Tshirts (Category: Topwear, Season: Fall) (Material: cotton, Worn: 110 times, Score: 5.92)
+* Bottom: Arrow Sport Men Brown Trousers (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 63 times, Score: 4.81)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing garment, we're reducing the need for new, resource-intensive production.
+2. Seasonal relevance: Both the top and bottom are suitable for the Fall season, ensuring you're prepared for the weather.
+3. Material: Cotton is a natural, biodegradable material that's a more sustainable choice compared to synthetic materials.
+4. Score: Both garments have high scores, indicating they've been well-maintained and are still",True,False,,7,True,False,,6,200,False,True
+2,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- French Connection Women Rust Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 102 times, Score: 5.62)
+- Aneri Women Habiba Blue Kurti [Category: Topwear, Season: Fall] (Material: cotton, Worn: 82 times, Score: 5.58)
+- United Colors of Benetton Women Purple Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.63)
+- Urban Yoga Women Maroon Leggings [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 90 times, Score: 5.74)
+- Scullers For Her Check Purple Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 36 times, Score: 3.56)
+- Fabindia Turquoise Blue Hand Printed Sari [Category: Saree, Season: Summer] (Material: cotton, Worn: 10 times, Score: 4.61)
+- United Colors of Benetton Women Check Green Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.8)
+- Wrangler Women Black Katie Top [Category: Topwear, Season: Winter] (Material: cotton, Worn: 39 times, Score: 4.37)
+- UCB Women's Short Sleeve Blue Red T-shirt [Category: Topwear, Season: Summer] (Material: viscose, Worn: 4 times, Score: 2.86)
+- Amante Women Pink Briefs PFCL05 [Category: Innerwear, Season: Winter] (Material: cotton|elastane, Worn: 119 times, Score: 5.64)
+- ONLY Women Blue Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 7 times, Score: 4.03)
+- Diva Women Printed Grey Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 70 times, Score: 6.2)
+- United Colors of Benetton Women Peach Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 29 times, Score: 3.99)
+- Tokyo Talkies Women Multi Coloured T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 3 times, Score: 2.59)
+- ADIDAS Originals Women Flock Purple Track Pants [Category: Bottomwear, Season: Summer] (Material: cotton|polyester, Worn: 29 times, Score: 5.0)","I recommend wearing your Wrangler Women Black Katie Top (cotton) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 39 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Wrangler Women Black Katie Top (cotton) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 39 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Wrangler Women Black Katie Top [Category: Topwear, Season: Winter] (Material: cotton, Worn: 39 times, Score: 4.37)
+* Urban Yoga Women Maroon Leggings [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 90 times, Score: 5.74)
+
+Why this outfit is the more sustainable choice:
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which reduces waste and minimizes the environmental impact of production.
+2. Winter-appropriate: The Wrangler Women Black Katie Top is suitable for the winter season, making it a practical choice for your office meeting.
+3. High-worn scores: Both the top and leggings have high worn scores, indicating that they have been worn frequently and are likely to be",True,False,,6,True,True,,6,200,False,True
+3,"User Request: I have a weekend errand today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Probase Men Stripes Maroon Polo T-shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 111 times, Score: 6.0)
+- ADIDAS Men Flame Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 30 times, Score: 4.17)
+- Just Natural Unisex Red Rain Jacket [Category: Topwear, Season: Summer] (Material: polyester, Worn: 57 times, Score: 4.01)
+- Facit Men Grey Melange Comfort Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 26 times, Score: 4.42)
+- French Connection Men Navy Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 91 times, Score: 5.28)
+- ADIDAS Men Pant Climalite Blue Track Pants [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 35 times, Score: 4.82)
+- Highlander Men Blue Check Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 56 times, Score: 4.9)
+- U.S. Polo Assn. Men Striped Blue Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 4 times, Score: 3.96)
+- Proline Men Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 29 times, Score: 3.19)
+- Myntra Men's I Am Tired Of Working Sky Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 152 times, Score: 5.68)
+- Basics Men Black Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 60 times, Score: 5.11)
+- Proline Men Blue Printed Sweatshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 63 times, Score: 4.84)
+- Lee Men Stripes White T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 92 times, Score: 5.75)
+- Facit Men Bicep Tee Navy Blue Innerwear Vest [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 87 times, Score: 6.84)
+- Mark Taylor Men Striped Blue Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 19 times, Score: 3.98)","I recommend wearing your Myntra Men's I Am Tired Of Working Sky Blue T-shirt (cotton) paired with your French Connection Men Navy Blue Jeans (cotton|elastane) for your weekend errand. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 243 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Myntra Men's I Am Tired Of Working Sky Blue T-shirt (cotton) paired with your French Connection Men Navy Blue Jeans (cotton|elastane) for your weekend errand. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 243 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your weekend errand:
+
+* Top: Myntra Men's I Am Tired Of Working Sky Blue T-shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 152 times, Score: 5.68)
+* Bottom: French Connection Men Navy Blue Jeans (Category: Bottomwear, Season: Summer) (Material: cotton|elastane, Worn: 91 times, Score: 5.28)
+* Innerwear: Facit Men Bicep Tee Navy Blue Innerwear Vest (Category: Innerwear, Season: Summer) (Material: cotton, Worn: 87 times, Score: 6.84)
+
+This outfit is a great choice for a summer weekend errand because it's comfortable, breathable, and suitable for the warm weather. The Myntra Sky Blue T-shirt is a great choice because it's been worn many times (152 times!)",True,False,,6,True,False,,3,200,False,True
+4,"User Request: I have a casual lunch today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Scullers For Her Brown Trousers [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 29 times, Score: 4.48)
+- Remanika Women Maroon Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 83 times, Score: 5.17)
+- United Colors of Benetton Women Checks Blue Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 144 times, Score: 6.71)
+- Tonga White & Black Animal Print Dress [Category: Dress, Season: Fall] (Material: polyester, Worn: 2 times, Score: 3.49)
+- Nike Women Strong Poly Black Capri [Category: Bottomwear, Season: Summer] (Material: polyester, Worn: 16 times, Score: 2.82)
+- Aurelia Women Beige Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 102 times, Score: 5.96)
+- Arrow Woman Lavender Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 43 times, Score: 3.96)
+- SDL by Sweet Dreams Women Pink Pyjama Set [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 37 times, Score: 5.53)
+- Tantra Women's Shloka Navy Long T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 103 times, Score: 5.58)
+- Wrangler Women Printed Maroon T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 35 times, Score: 3.8)
+- Amante Women Pink Briefs PCLC11 [Category: Innerwear, Season: Winter] (Material: cotton|nylon|elastane, Worn: 70 times, Score: 4.65)
+- United Colors of Benetton Women Navy Blue Top [Category: Topwear, Season: Summer] (Material: viscose|polyester, Worn: 148 times, Score: 6.58)
+- Tantra Women Purple Prima Donna T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 3.85)
+- Mother Earth Women Printed Black Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 33 times, Score: 5.66)
+- ONLY Women Orange Shorts [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 13 times, Score: 4.16)","I recommend wearing your United Colors of Benetton Women Navy Blue Top (viscose|polyester) paired with your Scullers For Her Brown Trousers (cotton|elastane) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 177 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Women Navy Blue Top (viscose|polyester) paired with your Scullers For Her Brown Trousers (cotton|elastane) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 177 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual summer lunch:
+
+* Aurelia Women Beige Kurta (Category: Topwear, Season: Summer) (Material: cotton, Worn: 102 times, Score: 5.96)
+* Scullers For Her Brown Trousers (Category: Bottomwear, Season: Summer) (Material: cotton|elastane, Worn: 29 times, Score: 4.48)
+* United Colors of Benetton Women Navy Blue Top (Category: Topwear, Season: Summer) (Material: viscose|polyester, Worn: 148 times, Score: 6.58)
+
+This outfit is a great choice for a casual summer lunch because it's comfortable, breathable, and suitable for the warm weather. Here's why it's a sustainable choice:
+
+1. Reuse of existing garments: By choosing items from your existing wardrobe, you're reducing the need to buy new clothes",True,False,,7,True,True,,6,200,False,True
+5,"User Request: I have a university class today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- BIBA Women White Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 69 times, Score: 5.39)
+- Biara Women Black Bra [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 4 times, Score: 3.96)
+- W Women Short Sleeve Pink Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 19 times, Score: 3.95)
+- Span Women Blue Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 20 times, Score: 4.4)
+- Tantra Women Hippy Grey T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 13 times, Score: 4.13)
+- Scullers For Her Check Navy Blue Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 66 times, Score: 5.55)
+- Sushilas Women Printed Maroon Kurta [Category: Topwear, Season: Summer] (Material: silk, Worn: 110 times, Score: 4.22)
+- Flying Machine Women White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 16 times, Score: 4.12)
+- Puma Women Script Green Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 21 times, Score: 4.0)
+- Vishudh Women Brown Printed Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 67 times, Score: 4.99)
+- Aurelia Women Solid Black Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 91 times, Score: 5.71)
+- Nike Women As Jdi Pixels Blue T-Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 13 times, Score: 4.24)
+- Biba Women Yellow Churidar Kurta with Dupatta [Category: Apparel Set, Season: Summer] (Material: cotton, Worn: 83 times, Score: 5.32)
+- Enamor Women Smooth Skin Bra [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 68 times, Score: 4.85)
+- Tokyo Talkies Women Grey Melange Printed Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 42 times, Score: 4.52)","I recommend wearing your Tantra Women Hippy Grey T-shirt (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 13 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Aurelia Women Solid Black Kurta (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 91 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Aurelia Women Solid Black Kurta (Category: Topwear, Season: Fall) (Material: cotton, Worn: 91 times, Score: 5.71)
+* Your existing black bra (Biara Women Black Bra, Category: Innerwear, Season: Summer) (Material: cotton, Worn: 4 times, Score: 3.96)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes the environmental impact of production, transportation, and packaging.
+2. Seasonal relevance: The Aurelia Women Solid Black Kurta is suitable for the Fall season, making it a great choice for your university class today.
+3. High-worn score: Both the Aurelia Women Solid Black Kurta and your black bra have high worn scores,",True,False,,6,True,True,,6,200,False,True
+6,"User Request: I have a university class today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- U.S. Polo Assn. Men Solid White  Polo Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 3 times, Score: 3.61)
+- Mickey Men's Micky Wall Graphitti Playful Grey Violet T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 3 times, Score: 3.95)
+- Jockey ELANCE Men Pack Of 2 Briefs 1010 [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 4.24)
+- UCB Men Ben Logo White Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 45 times, Score: 4.84)
+- Mother Earth Men Solid Olive Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 3.68)
+- Arrow Men Blue Striped Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 132 times, Score: 5.44)
+- Puma Men Rugby Orange Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 153 times, Score: 6.0)
+- United Colors of Benetton Men Solid Blue Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 35 times, Score: 3.36)
+- Genesis Men Stripes Red Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 22 times, Score: 4.07)
+- Mark Taylor Men Solid Grey Trouser [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 142 times, Score: 5.94)
+- Jockey SPORT Men White Innerwear Vest 9925 [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 59 times, Score: 4.65)
+- ADIDAS Men Argentina AFA H REP Blue Jersey [Category: Topwear, Season: Fall] (Material: polyester, Worn: 89 times, Score: 5.33)
+- ADIDAS Men HT Khakhi Short [Category: Bottomwear, Season: Fall] (Material: nylon, Worn: 29 times, Score: 3.6)
+- CSK Mens Fangear Yellow Jersey [Category: Topwear, Season: Summer] (Material: polyester, Worn: 37 times, Score: 4.19)
+- Arrow Sport Men Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 10 times, Score: 3.58)","I recommend wearing your Puma Men Rugby Orange Tshirts (cotton) paired with your Mark Taylor Men Solid Grey Trouser (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 295 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Puma Men Rugby Orange Tshirts (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 153 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: U.S. Polo Assn. Men Solid White Polo T-shirt (Category: Topwear, Season: Fall) (Material: cotton, Worn: 3 times, Score: 3.61)
+* Bottom: Mark Taylor Men Solid Grey Trouser (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 142 times, Score: 5.94)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing the U.S. Polo Assn. Polo T-shirt and Mark Taylor Trouser, you're reusing garments that are already in your wardrobe, reducing the need for new purchases.
+2. Lower-impact materials: Both the cotton polo shirt and cotton trousers are made from natural, biodegradable materials that have a lower environmental impact compared to synthetic materials like polyester.
+3. Versatility: The",True,False,,6,True,False,,8,200,False,True
+7,"User Request: I have a casual lunch today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Mother Earth Men Solid Maroon Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 4.01)
+- Spykar Men's Stinger Basket Ball Team White Blue Stripes T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 12 times, Score: 4.13)
+- Facit Men Brown Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 56 times, Score: 5.15)
+- Nike Men Football Soccer Black Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 110 times, Score: 6.69)
+- Genesis Men Thick Black Stripe Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 93 times, Score: 5.85)
+- ADIDAS Men Grey T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 58 times, Score: 4.7)
+- Flying Machine Men Check Navy Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 9 times, Score: 3.9)
+- John Players Men Solid Green T-Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 55 times, Score: 4.97)
+- Locomotive Men Washed Blue Jeans [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 34 times, Score: 3.85)
+- s.Oliver Men Striped Dark Grey Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 2 times, Score: 3.76)
+- Chromozome Men Black Pack of 2 Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.65)
+- FCUK Underwear Men Blue Brief [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 88 times, Score: 5.45)
+- John Players Men Check Green Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 51 times, Score: 4.88)
+- Locomotive Men Stripe Langley Navy Blue T-Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 71 times, Score: 5.08)
+- Jockey MODERN CLASSIC Mens Grey Briefs 8035 [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 40 times, Score: 3.5)","I recommend wearing your Nike Men Football Soccer Black Tshirts (cotton) paired with your Locomotive Men Washed Blue Jeans (cotton) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 144 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your John Players Men Check Green Shirt (cotton) paired with your Locomotive Men Washed Blue Jeans (cotton) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 85 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch:
+
+* Top: Nike Men Football Soccer Black Tshirts (Category: Topwear, Season: Fall) (Material: cotton, Worn: 110 times, Score: 6.69)
+* Bottom: Locomotive Men Washed Blue Jeans (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 34 times, Score: 3.85)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing items that have already been worn multiple times, we reduce the need for new, resource-intensive garments.
+2. Cotton as a material: While cotton is a natural, biodegradable material, it still requires significant resources (water, pesticides, etc.) to produce. However, since you already have these cotton garments in your wardrobe, we're minimizing the environmental impact by reusing them.
+3. Seasonal versatility: Although the Nike",True,False,,6,True,False,,7,200,False,True
+8,"User Request: I have a casual lunch today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Nike Women Trainng sports bra Purple Tops [Category: Topwear, Season: Fall] (Material: polyester, Worn: 12 times, Score: 2.92)
+- Flying Machine Women Printed Pink T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 41 times, Score: 4.44)
+- Jockey Lace Stretch Black Boy Leg Brief [Category: Innerwear, Season: Winter] (Material: cotton|elastane, Worn: 42 times, Score: 4.75)
+- W Women Solid Blue Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 68 times, Score: 5.13)
+- Tantra Women's Prism Black Long T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 82 times, Score: 5.34)
+- Tonga Women Printed Black Dress [Category: Dress, Season: Summer] (Material: polyester|elastane, Worn: 64 times, Score: 5.87)
+- Jealous 21 Women Black Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 53 times, Score: 4.82)
+- Aneri Women Kaalki Multi Coloured Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 109 times, Score: 6.28)
+- Jealous 21 Women Solid Green Tops [Category: Topwear, Season: Fall] (Material: polyester|viscose, Worn: 17 times, Score: 3.77)
+- Lee Women Pink & Navy Blue Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 40 times, Score: 4.06)
+- Mother Earth Women Orange Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 76 times, Score: 5.41)
+- Urban Yoga Women Black Capris [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 107 times, Score: 6.01)
+- Spykar Women Washed Black Jeans [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 36 times, Score: 3.88)
+- Fabindia Women Printed Green Kurti [Category: Topwear, Season: Summer] (Material: cotton, Worn: 10 times, Score: 4.1)
+- W Women Printed Red Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 37 times, Score: 4.6)","I recommend wearing your Jealous 21 Women Solid Green Tops (polyester|viscose) paired with your Spykar Women Washed Black Jeans (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 53 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Aneri Women Kaalki Multi Coloured Kurta (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 109 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch in Fall:
+
+* Top: Aneri Women Kaalki Multi Coloured Kurta (Category: Topwear, Season: Fall) (Material: cotton, Worn: 109 times, Score: 6.28)
+* Bottom: Spykar Women Washed Black Jeans (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 36 times, Score: 3.88)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: Both the top and bottom are already-owned garments, reducing the need for new purchases.
+2. Seasonal relevance: The outfit is suitable for Fall, considering the weather and your preferences.
+3. Material choice: Both the top and bottom are made from cotton, a natural, biodegradable, and renewable resource.
+4. Score: The top has a high score (6.28), indicating it has been worn frequently",True,False,,6,True,False,,7,200,False,True
+9,"User Request: I have a casual lunch today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- United Colors of Benetton Women Printed Purple Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 103 times, Score: 5.17)
+- Nike Women Pure Orange T-shirt [Category: Topwear, Season: Summer] (Material: polyester|elastane, Worn: 44 times, Score: 5.31)
+- Tantra Women Blue Shopping T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 9 times, Score: 4.67)
+- Shree Women Red & Black Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 40 times, Score: 4.4)
+- W Women Maroon Printed Tunic [Category: Topwear, Season: Fall] (Material: viscose, Worn: 101 times, Score: 6.74)
+- Scullers For Her Women Scarf Shirt Blue Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 164 times, Score: 7.03)
+- W Women Printed Beige Kurta [Category: Topwear, Season: Summer] (Material: polyester, Worn: 32 times, Score: 3.17)
+- Aurelia Women Black Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 34 times, Score: 4.27)
+- Nike Women Purple Polo Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 4 times, Score: 5.07)
+- ONLY Women Cream Printed Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 10 times, Score: 3.69)
+- Arrow Woman Victoria Purple Top [Category: Topwear, Season: Fall] (Material: viscose|elastane, Worn: 102 times, Score: 6.33)
+- Jealous 21 Women Yellow Love Being Adored Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 47 times, Score: 4.37)
+- Arrow Woman Kiro Blue Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 67 times, Score: 4.95)
+- Fabindia Women Magenta Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 17 times, Score: 4.22)
+- Fabindia Women Red Khadi Bijli Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 3.93)","I recommend wearing your Nike Women Pure Orange T-shirt (polyester|elastane) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 44 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Women Printed Purple Top (cotton) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 103 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual summer lunch:
+
+* United Colors of Benetton Women Printed Purple Top (Category: Topwear, Season: Summer) (Material: cotton, Worn: 103 times, Score: 5.17)
+* Aurelia Women Black Kurta (Category: Topwear, Season: Summer) (Material: cotton, Worn: 34 times, Score: 4.27)
+
+This outfit is a great choice for a casual summer lunch because:
+
+* The United Colors of Benetton top is a lightweight, breathable cotton garment that's perfect for warm weather. It's also been worn 103 times, making it a high-scoring item in your wardrobe.
+* The Aurelia black kurta is a versatile piece that can be dressed up or down. Its cotton material is also suitable for summer wear, and it's been worn 34 times, making it a well-loved item in your wardrobe.
+
+Why is",True,False,,6,True,False,,4,200,False,True
+10,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- W Women Printed Grey Kurtis [Category: Topwear, Season: Summer] (Material: cotton, Worn: 123 times, Score: 5.67)
+- Little Miss Women Printed Grey T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 107 times, Score: 7.05)
+- Inaya Women Purple Lounge Pants [Category: Loungewear and Nightwear, Season: Summer] (Material: modal|elastane, Worn: 14 times, Score: 3.74)
+- Wrangler Women Pink T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 12 times, Score: 4.43)
+- W Women Brown Printed Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 43 times, Score: 4.12)
+- Biara White Everyday Support Bra MW 1002 [Category: Innerwear, Season: Winter] (Material: cotton, Worn: 62 times, Score: 4.65)
+- Domyos Women's Grey Short [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 100 times, Score: 5.58)
+- Sepia Women Blue Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 12 times, Score: 4.07)
+- W Women Brown Printed Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 45 times, Score: 3.64)
+- Arrow Woman Lavender Top [Category: Topwear, Season: Summer] (Material: polyester, Worn: 51 times, Score: 4.5)
+- Lee Women Red Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 8 times, Score: 3.89)
+- Fabindia Cream-Coloured & Red Hand Printed Saree [Category: Saree, Season: Summer] (Material: cotton, Worn: 0 times, Score: 3.88)
+- Roxy Women Pink Top [Category: Topwear, Season: Winter] (Material: cotton|elastane, Worn: 1 times, Score: 2.66)
+- Span Women Floral Printed Green Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 36 times, Score: 4.61)
+- Myntra Women Green Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 119 times, Score: 5.8)","I recommend wearing your Roxy Women Pink Top (cotton|elastane) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 1 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Biara White Everyday Support Bra MW 1002 (cotton) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 62 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Biara White Everyday Support Bra MW 1002 (Innerwear, Season: Winter) - This bra is a great choice for winter and will provide a comfortable base layer.
+* W Women Brown Printed Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 43 times, Score: 4.12) - This kurta is a versatile and warm option for winter. Its cotton material is breathable and sustainable.
+* Domyos Women's Grey Short [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 100 times, Score: 5.58) - Although this short is from the summer season, it's a great option for winter as well. You can layer it under the kurta for a comfortable and stylish outfit.
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: We're reusing",True,False,,6,True,False,,5,200,False,True
+11,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Belmonte Men Check White Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 28 times, Score: 4.53)
+- ADIDAS Men Solid Navy Blue Jackets [Category: Topwear, Season: Fall] (Material: polyester, Worn: 20 times, Score: 3.93)
+- Nike Men Stripes Grey Polo Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 29 times, Score: 4.38)
+- Flying Machine Men HS Red Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 138 times, Score: 5.28)
+- Facit Men White String Bikini Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 31 times, Score: 4.26)
+- Puma Men Lifestyle Track Black Jacket [Category: Topwear, Season: Fall] (Material: polyester, Worn: 59 times, Score: 4.2)
+- Lee Men Sanskrit Blue Rodeo Fit Jeans [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 69 times, Score: 4.73)
+- Arrow Sport Men Dark Navy Blue Trousers [Category: Bottomwear, Season: Fall] (Material: polyester|cotton, Worn: 131 times, Score: 5.49)
+- French Connection Men Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 32 times, Score: 4.14)
+- Probase Men Wide Check Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 46 times, Score: 4.93)
+- Nike mens As Vapor SS black T-shirt [Category: Topwear, Season: Summer] (Material: polyester|elastane, Worn: 140 times, Score: 5.31)
+- Levis Men Red Brief [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 19 times, Score: 4.29)
+- Facit Men Fitness Orange Innerwear Vest [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 44 times, Score: 4.87)
+- ADIDAS Men's Med Grey Blue T-shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 15 times, Score: 3.57)
+- Indigo Nation Men Teal Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 45 times, Score: 5.6)","I recommend wearing your Indigo Nation Men Teal Shirt (cotton) paired with your Arrow Sport Men Dark Navy Blue Trousers (polyester|cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 176 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Arrow Sport Men Dark Navy Blue Trousers (polyester|cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 131 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Top: Flying Machine Men HS Red Shirts (Category: Topwear, Season: Fall, Material: cotton, Worn: 138 times, Score: 5.28)
+* Bottom: Lee Men Sanskrit Blue Rodeo Fit Jeans (Category: Bottomwear, Season: Fall, Material: cotton, Worn: 69 times, Score: 4.73)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: Both the top and bottom are already-owned garments that have been worn multiple times, reducing the need for new, resource-intensive purchases.
+2. Material: Both the cotton shirt and jeans are made from natural, biodegradable materials that have a lower environmental impact compared to synthetic materials like polyester.
+3. Score: Both garments have high scores, indicating that they are well-loved and well-maintained, which reduces the likelihood of them being discarded or",True,False,,6,True,False,,8,200,False,True
+12,"User Request: I have a formal dinner today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- W Women Printed Purple Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 6 times, Score: 5.17)
+- Amante Pink Full-Coverage Lace Bra BCFR01 [Category: Innerwear, Season: Winter] (Material: nylon|elastane, Worn: 34 times, Score: 3.65)
+- United Colors of Benetton Women Peach T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 32 times, Score: 4.43)
+- Biba Women Printed Multi Coloured Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 36 times, Score: 4.31)
+- Latin Quarters Women Yellow Top [Category: Topwear, Season: Fall] (Material: viscose, Worn: 62 times, Score: 4.67)
+- Nike Women Trainning Grey Capris [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 53 times, Score: 4.36)
+- United Colors of Benetton Women Solid Black Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 124 times, Score: 5.96)
+- Fabindia Women Printed White Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 30 times, Score: 4.41)
+- ADIDAS Women Grey Track Pants [Category: Bottomwear, Season: Fall] (Material: cotton|polyester, Worn: 108 times, Score: 5.75)
+- Jealous 21 Women Casual Top Purple Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 8 times, Score: 4.11)
+- Folklore Women Lavender Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 78 times, Score: 5.29)
+- Global Desi Women Multi Coloured Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 9 times, Score: 4.05)
+- Amante Women Black Lace Briefs PCFR21 [Category: Innerwear, Season: Winter] (Material: nylon|elastane, Worn: 39 times, Score: 3.42)
+- Ayaany Women Blue Tunic [Category: Topwear, Season: Fall] (Material: cotton, Worn: 12 times, Score: 3.63)
+- W Women Printed Grey Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 19 times, Score: 4.28)","I recommend wearing your Folklore Women Lavender Kurta (cotton) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 78 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Women Solid Black Tops (cotton) paired with your Nike Women Trainning Grey Capris (cotton|polyester|elastane) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 177 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","What a wonderful opportunity to create a sustainable outfit from your existing wardrobe!
+
+For a formal summer dinner, I recommend the following outfit:
+
+* Top: W Women Printed Purple Kurtas (Category: Topwear, Season: Summer) - This beautiful, vibrant purple kurtas is perfect for a summer evening. Its cotton material is breathable, comfortable, and suitable for the season.
+* Bottom: Nike Women Trainning Grey Capris (Category: Bottomwear, Season: Summer) - These capris are a great match for the kurtas, providing a comfortable and stylish bottom half. The cotton-polyester-elastane blend ensures a smooth, wrinkle-free wear.
+* Accessories: None needed! The kurtas and capris are a perfect combination, and you can skip any additional accessories to keep the outfit simple and elegant.
+
+Why is this outfit the more sustainable choice?
+
+1. Reuse: By choosing an existing garment, you're reducing the need for new, resource-intensive production.",True,False,,6,True,False,,4,200,False,True
+13,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Reid & Taylor Men Solid Beige Trousers [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 31 times, Score: 4.38)
+- United Colors of Benetton Men Solid Blue Sweater [Category: Topwear, Season: Summer] (Material: cotton|nylon|elastane, Worn: 78 times, Score: 5.33)
+- Arrow Men Blue Check Sweater [Category: Topwear, Season: Fall] (Material: wool|acrylic, Worn: 5 times, Score: 3.18)
+- Horsefly Men Charcoal T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 8 times, Score: 3.82)
+- Chromozome Men Black Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 51 times, Score: 4.81)
+- Probase Men White Grafitti Orange Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 17 times, Score: 4.22)
+- Nike Men Solid Black Shorts [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 10 times, Score: 3.39)
+- Myntra Men Black Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 53 times, Score: 4.52)
+- United Colors of Benetton Men Check Red Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 80 times, Score: 5.47)
+- ADIDAS Men Solid Blue T-Shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 98 times, Score: 5.43)
+- Ed Hardy Men Eagle Print Blue Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 10 times, Score: 4.09)
+- ADIDAS Men Blue Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 83 times, Score: 5.45)
+- Puma Men Black Polo Neck T-shirt [Category: Topwear, Season: Summer] (Material: polyester|cotton, Worn: 33 times, Score: 4.37)
+- U.S. Polo Assn. Men Check Red Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 43 times, Score: 4.8)
+- Puma Men Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 110 times, Score: 5.85)","I recommend wearing your Reid & Taylor Men Solid Beige Trousers (cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 31 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Men Check Red Shirts (cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 80 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Bottomwear: Reid & Taylor Men Solid Beige Trousers (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 31 times, Score: 4.38)
+* Topwear: United Colors of Benetton Men Solid Blue Sweater (Category: Topwear, Season: Summer) (Material: cotton|nylon|elastane, Worn: 78 times, Score: 5.33)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing garment, you're reducing the need for new, resource-intensive production.
+2. Seasonal relevance: The beige trousers are suitable for winter, and the blue sweater is a versatile choice that can be worn in various seasons.
+3. Material choice: Cotton is a natural, biodegradable material that's a more sustainable choice compared to synthetic materials like polyester.",True,False,,6,True,False,,5,200,False,True
+14,"User Request: I have a casual lunch today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Vishudh Women Self Printed Off White Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 97 times, Score: 5.68)
+- UCB Women's Young Pigment Pink T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 96 times, Score: 5.13)
+- Fabindia Women Navy Blue Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 97 times, Score: 5.35)
+- Tonga Women Printed Brown Dress [Category: Dress, Season: Fall] (Material: polyester, Worn: 30 times, Score: 5.15)
+- ADIDAS Originals Women F Sleek Trf Grey Sweatshirt [Category: Topwear, Season: Summer] (Material: cotton|cashmere, Worn: 10 times, Score: 5.16)
+- ADIDAS Women's Blue Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 16 times, Score: 4.97)
+- W Women Blue Printed Kurti [Category: Topwear, Season: Fall] (Material: cotton, Worn: 7 times, Score: 3.77)
+- W Women Blue Tunic [Category: Topwear, Season: Fall] (Material: polyester, Worn: 22 times, Score: 3.62)
+- United Colors of Benetton Women Washed Blue Jeans [Category: Bottomwear, Season: Fall] (Material: cotton|elastane, Worn: 48 times, Score: 5.99)
+- Enamor Women Black Bra [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 27 times, Score: 3.83)
+- Tonga Women Pink Top [Category: Topwear, Season: Summer] (Material: polyester, Worn: 11 times, Score: 3.4)
+- Sepia Women Lavender Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 23 times, Score: 3.03)
+- Fabindia Women Purple Cambric Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 92 times, Score: 5.08)
+- Scullers For Her Women Light Work Red Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 116 times, Score: 5.17)
+- AND Women Red Dress [Category: Dress, Season: Summer] (Material: viscose, Worn: 55 times, Score: 4.6)","I recommend wearing your Scullers For Her Women Light Work Red Shirts (cotton) paired with your United Colors of Benetton Women Washed Blue Jeans (cotton|elastane) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 164 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Vishudh Women Self Printed Off White Kurta (cotton) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 97 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch:
+
+* Top: Vishudh Women Self Printed Off White Kurta (Category: Topwear, Season: Fall) (Material: cotton, Worn: 97 times, Score: 5.68)
+* Bottom: United Colors of Benetton Women Washed Blue Jeans (Category: Bottomwear, Season: Fall) (Material: cotton|elastane, Worn: 48 times, Score: 5.99)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing the Vishudh Kurta and United Colors of Benetton Jeans, you're reusing garments that have already been worn and loved. This reduces the need for new, resource-intensive clothing.
+2. Lower-impact materials: Both the cotton Kurta and cotton|elastane Jeans are made from natural, biodegradable materials. Cotton is a more sustainable choice compared to synthetic",True,False,,6,True,False,,7,200,False,True
+15,"User Request: I have a weekend errand today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Wrangler Women Poppins Blue Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 133 times, Score: 5.92)
+- Nike Women Cruiser Hurley Dot Pink T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 77 times, Score: 5.34)
+- Enamor Brownish Pink Full Figure Bra FB09 [Category: Innerwear, Season: Summer] (Material: nylon|elastane, Worn: 68 times, Score: 4.41)
+- SDL by Sweet Dreams Women White & Pink Night suits [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 15 times, Score: 4.12)
+- Aneri Women Twinkle Black Kurti [Category: Topwear, Season: Fall] (Material: cotton, Worn: 89 times, Score: 4.92)
+- W Women Green Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 43 times, Score: 4.72)
+- Jealous 21 Women Printed Pink Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 29 times, Score: 3.98)
+- Latin Quarters Women White Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 7 times, Score: 4.62)
+- ADIDAS Women's Tight Fresh Black Track Pant [Category: Bottomwear, Season: Summer] (Material: polyester, Worn: 7 times, Score: 3.06)
+- Nike Women Grey Track Pants [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 33 times, Score: 4.33)
+- United Colors of Benetton Women Grey Sweater [Category: Topwear, Season: Summer] (Material: wool|nylon, Worn: 4 times, Score: 4.76)
+- United Colors of Benetton Women Solid Dark Grey Sweatshirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 89 times, Score: 5.72)
+- ONLY Women Orange Trousers [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 2 times, Score: 4.87)
+- SDL by Sweet Dreams Women Black Nightdress [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 109 times, Score: 5.92)
+- Folklore Women Black & Red Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 10 times, Score: 3.43)","I recommend wearing your Wrangler Women Poppins Blue Top (cotton) paired with your ONLY Women Orange Trousers (cotton|elastane) for your weekend errand. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 135 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Women Solid Dark Grey Sweatshirt (cotton|polyester) paired with your Nike Women Grey Track Pants (cotton|polyester|elastane) for your weekend errand. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 178 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your winter weekend errand:
+
+* United Colors of Benetton Women Solid Dark Grey Sweatshirt (Category: Topwear, Season: Fall) (Material: cotton|polyester, Worn: 89 times, Score: 5.72)
+* Nike Women Grey Track Pants (Category: Bottomwear, Season: Summer) (Material: cotton|polyester|elastane, Worn: 33 times, Score: 4.33)
+
+This outfit is a great choice for a winter weekend errand because it's warm, comfortable, and suitable for the season. The United Colors of Benetton Women Solid Dark Grey Sweatshirt is a versatile piece that can be dressed up or down, and its cotton-polyester blend makes it a durable and low-maintenance option. The Nike Women Grey Track Pants are a great match for the sweater, and their cotton-polyester-elastane blend provides a comfortable and",True,False,,6,True,False,,4,200,False,True
+16,"User Request: I have a office meeting today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Wrangler Men Country Eagle Red Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 64 times, Score: 5.24)
+- United Colors of Benetton Men White T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 112 times, Score: 5.59)
+- Puma Men's Massa Lifestyle Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 89 times, Score: 5.44)
+- Scullers Men Navy Blue Polo T-Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 33 times, Score: 5.53)
+- ADIDAS Men Black T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 22 times, Score: 3.55)
+- Fabindia Men Striped Maroon Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 11 times, Score: 4.04)
+- Quiksilver Men Black Casual Sweatshirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 34 times, Score: 3.39)
+- Nike Men's Team Poly Red T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 64 times, Score: 5.64)
+- Puma Men Dizzy Graphic Red T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 17 times, Score: 5.36)
+- Mark Taylor Men Blue Printed T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 33 times, Score: 4.25)
+- Wrangler Men Blue Millard Jeans [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 4 times, Score: 3.8)
+- ADIDAS Men Navy Messi Track Jacket [Category: Topwear, Season: Fall] (Material: polyester, Worn: 44 times, Score: 4.24)
+- Hanes Men White Innerwear Vest [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 87 times, Score: 5.7)
+- U.S. Polo Assn. Denim Co. Men Blue & Red Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 60 times, Score: 4.06)
+- Arrow Men Navy Blue Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 73 times, Score: 6.37)","I recommend wearing your Arrow Men Navy Blue Check Shirt (cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Fall. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 73 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Arrow Men Navy Blue Check Shirt (cotton) for your office meeting. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 73 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Wrangler Men Country Eagle Red Shirt (Category: Topwear, Season: Fall) (Material: cotton, Worn: 64 times, Score: 5.24)
+* Wrangler Men Blue Millard Jeans (Category: Bottomwear, Season: Summer) (Material: cotton, Worn: 4 times, Score: 3.8)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: Both the shirt and jeans are already owned and have been worn multiple times, reducing the need for new, resource-intensive garments.
+2. Cotton content: Both pieces are made from cotton, a natural, biodegradable, and renewable material.
+3. Seasonal relevance: The shirt is suitable for the Fall season, and the jeans can be dressed up or down for a professional office setting.
+4. High scores: Both pieces have high scores, indicating they are well-loved",True,False,,6,True,False,,7,200,False,True
+17,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- ADIDAS Women Printed Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 37 times, Score: 4.64)
+- Jealous 21 Women Jealous Rain Blue Top Blue Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 31 times, Score: 4.53)
+- Enamor Red Smooth Bra [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 49 times, Score: 4.81)
+- Amante Women Black Bikini Briefs PGSM03 [Category: Innerwear, Season: Winter] (Material: cotton|elastane|nylon|viscose, Worn: 1 times, Score: 3.84)
+- United Colors of Benetton Women Solid Olive T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 41 times, Score: 4.66)
+- Allen Solly Woman Yellow Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 30 times, Score: 3.88)
+- Vishudh Women Printed Cream Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 26 times, Score: 5.42)
+- Jockey Women Black T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 39 times, Score: 4.68)
+- Nike Women Runng Blue T-shirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 16 times, Score: 3.6)
+- Aurelia Women Printed Green Kurti [Category: Topwear, Season: Summer] (Material: cotton, Worn: 34 times, Score: 3.77)
+- BIBA Women Printed Blue Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 52 times, Score: 5.06)
+- W Women Printed Grey Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 66 times, Score: 5.34)
+- W Women Printed Purple  Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 7 times, Score: 3.69)
+- Jealous 21 Women Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 20 times, Score: 3.41)
+- Peri Peri Women White Brief [Category: Innerwear, Season: Summer] (Material: nylon|elastane, Worn: 105 times, Score: 4.92)","I recommend wearing your Amante Women Black Bikini Briefs PGSM03 (cotton|elastane|nylon|viscose) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 1 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Amante Women Black Bikini Briefs PGSM03 (cotton|elastane|nylon|viscose) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 1 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Top: W Women Printed Grey Kurtas (Category: Topwear, Season: Summer) (Material: cotton, Worn: 66 times, Score: 5.34)
+* Bottom: Jealous 21 Women Blue Jeans (Category: Bottomwear, Season: Summer) (Material: cotton|polyester|elastane, Worn: 20 times, Score: 3.41)
+* Innerwear: Enamor Red Smooth Bra (Category: Innerwear, Season: Summer) (Material: cotton|elastane, Worn: 49 times, Score: 4.81)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing outfit, you're reducing the need for new, resource-intensive garments.
+2. Seasonal versatility: The W Women Printed Grey Kurtas can be worn in winter, as it's a neutral",True,False,,6,True,False,,5,200,False,True
+18,"User Request: I have a weekend errand today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Amante Women Black Briefs PGDI03 [Category: Innerwear, Season: Winter] (Material: nylon|elastane, Worn: 43 times, Score: 3.54)
+- Red Rose Women Blue Nightdress [Category: Loungewear and Nightwear, Season: Winter] (Material: nylon, Worn: 150 times, Score: 5.89)
+- Amante Grey Push-Up Bra BCLH01 [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 56 times, Score: 6.03)
+- Mother Earth Women Aug Bagru Maroon & Black Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 139 times, Score: 5.94)
+- Wrangler Women Double Blue Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 91 times, Score: 5.71)
+- W Women Solid Pink Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 81 times, Score: 5.52)
+- Fabindia Women Red Kalamkari Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 78 times, Score: 5.55)
+- Mineral Women Yellow Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 2 times, Score: 5.06)
+- W Women Printed Green Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 118 times, Score: 5.64)
+- Mother Earth Women Printed Black Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 10 times, Score: 4.03)
+- Nike Women Legend Slim Poly Grey Capris [Category: Bottomwear, Season: Summer] (Material: polyester, Worn: 25 times, Score: 3.93)
+- United Colors of Benetton Women Black Dress [Category: Dress, Season: Fall] (Material: cotton|elastane, Worn: 2 times, Score: 3.6)
+- Latin Quarters Women Orange Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 2 times, Score: 3.75)
+- Femella Women Cream Leggings [Category: Bottomwear, Season: Summer] (Material: nylon|elastane, Worn: 3 times, Score: 2.3)
+- United Colors of Benetton Women Blue Slim Fit T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 155 times, Score: 5.42)","I recommend wearing your United Colors of Benetton Women Blue Slim Fit T-shirt (cotton) paired with your Nike Women Legend Slim Poly Grey Capris (polyester) for your weekend errand. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 180 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Amante Grey Push-Up Bra BCLH01 (cotton|elastane) for your weekend errand. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 56 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your weekend errand:
+
+* Top: United Colors of Benetton Women Blue Slim Fit T-shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 155 times, Score: 5.42)
+* Bottom: Nike Women Legend Slim Poly Grey Capris (Category: Bottomwear, Season: Summer) (Material: polyester, Worn: 25 times, Score: 3.93)
+* Footwear: None needed, as you're not going out for a formal occasion.
+
+This outfit is a great choice for a summer weekend errand because it's comfortable, breathable, and suitable for the warm weather. The United Colors of Benetton T-shirt is a versatile piece that can be dressed up or down, and it's been worn many times, making it a sustainable choice. The Nike Capris are also a great option for a casual, comfortable bottom.
+
+I chose these pieces",True,False,,6,True,False,,4,200,False,True
+19,"User Request: I have a formal dinner today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- W Women Printed Blue Kurtis [Category: Topwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.79)
+- French Connection Women Blue Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 37 times, Score: 5.84)
+- Remanika Women Purple Dress [Category: Dress, Season: Summer] (Material: viscose, Worn: 0 times, Score: 3.44)
+- ONLY Women Multi Coloured Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 37 times, Score: 3.48)
+- Jealous 21 Women Jealous Ece Blue Top Blue Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 65 times, Score: 6.21)
+- Scullers Women Solid Purple Tops [Category: Topwear, Season: Fall] (Material: viscose, Worn: 147 times, Score: 6.34)
+- Fabindia Printed Beige and Black Dupatta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 28 times, Score: 4.42)
+- Bwitch Black Bra RTV-BW238 [Category: Innerwear, Season: Winter] (Material: polyester|nylon|elastane, Worn: 51 times, Score: 4.32)
+- W Women Printed Blue Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 18 times, Score: 4.25)
+- United Colors of Benetton Women Grey Printed Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 94 times, Score: 5.87)
+- SDL by Sweet Dreams Women Pink Night suits [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 35 times, Score: 3.88)
+- W Women Check Navy  Blue Kurtis [Category: Topwear, Season: Summer] (Material: cotton, Worn: 56 times, Score: 5.0)
+- Nike Women Black Capris [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 56 times, Score: 4.64)
+- Lee Women Printed Purple Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 109 times, Score: 5.75)
+- Wildcraft Women Purple T-shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 96 times, Score: 5.53)","I recommend wearing your W Women Check Navy  Blue Kurtis (cotton) for your formal dinner. These items are the best available option from your wardrobe, though not specifically tagged for Fall. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 56 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Jealous 21 Women Jealous Ece Blue Top Blue Tops (cotton) for your formal dinner. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 65 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your formal dinner:
+
+* Top: Jealous 21 Women Jealous Ece Blue Top (Category: Topwear, Season: Fall) (Material: cotton, Worn: 65 times, Score: 6.21)
+* Bottom: Nike Women Black Capris (Category: Bottomwear, Season: Summer) (Material: cotton|polyester|elastane, Worn: 56 times, Score: 4.64)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes the environmental impact of production, transportation, and packaging.
+2. Seasonal relevance: The Jealous 21 Women Jealous Ece Blue Top is suitable for Fall, making it a great choice for the current season. This reduces the need for seasonal-specific purchases or storage of out-of-season clothing",True,False,,6,True,True,,6,200,False,True
+20,"User Request: I have a university class today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- U.S. Polo Assn. Denim Co. Men Printed Green T-Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 122 times, Score: 5.81)
+- U.S.Polo Assn. Men Orange Striped Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 73 times, Score: 5.03)
+- Nike Men AS Team Woven Black Track Pants [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 46 times, Score: 5.25)
+- Highlander Men Check Grey Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 111 times, Score: 5.82)
+- Puma Men Head Navy Blue Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 51 times, Score: 3.81)
+- Puma Men Polo Red TShirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 9 times, Score: 3.71)
+- Puma Men Graphic Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 69 times, Score: 4.31)
+- Chromozome Men Charcoal Lounge Shorts [Category: Loungewear and Nightwear, Season: Winter] (Material: cotton, Worn: 118 times, Score: 6.0)
+- Indigo Nation Men Mar Maroon Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 19 times, Score: 3.9)
+- United Colors of Benetton Men Beige Trousers [Category: Bottomwear, Season: Fall] (Material: cotton|elastane, Worn: 74 times, Score: 5.12)
+- Campbell Men Pack of 3 Solid Tshirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 159 times, Score: 5.25)
+- Puma Men Speed Grapic tee Blue Tshirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 112 times, Score: 6.74)
+- Mother Earth Men Green Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 70 times, Score: 6.04)
+- Locomotive Men Check Grey Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 63 times, Score: 5.03)
+- Arrow Sport Men Solid Black Sweaters [Category: Topwear, Season: Fall] (Material: cotton, Worn: 7 times, Score: 4.02)","I recommend wearing your Mother Earth Men Green Shirt (cotton) paired with your United Colors of Benetton Men Beige Trousers (cotton|elastane) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 144 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your U.S. Polo Assn. Denim Co. Men Printed Green T-Shirt (cotton) paired with your United Colors of Benetton Men Beige Trousers (cotton|elastane) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 196 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: U.S. Polo Assn. Men Printed Green T-Shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 122 times, Score: 5.81)
+* Bottom: United Colors of Benetton Men Beige Trousers (Category: Bottomwear, Season: Fall) (Material: cotton|elastane, Worn: 74 times, Score: 5.12)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes waste and supports a more sustainable fashion approach.
+2. Cotton as a lower-impact material: Both the U.S. Polo Assn. Men Printed Green T-Shirt and the United Colors of Benetton Men Beige Trousers are made from cotton",True,False,,6,True,True,,6,200,False,True
+21,"User Request: I have a casual lunch today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Batman Men's Logo Neon Glow Black T-shirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 96 times, Score: 6.76)
+- ADIDAS Men Blue Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 3.84)
+- Mark Taylor Men White Printed T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 10 times, Score: 4.09)
+- Indigo Nation Men Striped Purple Shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 55 times, Score: 4.46)
+- ADIDAS Men Green Polo T-shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 154 times, Score: 5.14)
+- Free Authority Men's Army Washed Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 175 times, Score: 5.92)
+- Hanes Men Black Shorts [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 3 times, Score: 2.78)
+- Status Quo Men's Beach White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 54 times, Score: 4.93)
+- Classic Polo Men's White Blue Logo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 36 times, Score: 4.65)
+- Scullers Men Striped Lavender Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 52 times, Score: 5.14)
+- Jockey 24 x 7 Men Black Sport Shorts 9426 [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 112 times, Score: 6.07)
+- ADIDAS Men Pant Climalite Blue Track Pants [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 35 times, Score: 4.82)
+- ADIDAS Men Aess  Blue Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 120 times, Score: 5.96)
+- Belmonte Men Check Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 34 times, Score: 4.23)
+- Mr. Men Men Purple Printed T-shirt [Category: Topwear, Season: Fall] (Material: cotton|viscose, Worn: 73 times, Score: 4.94)","I recommend wearing your Batman Men's Logo Neon Glow Black T-shirt (cotton|polyester) paired with your ADIDAS Men Pant Climalite Blue Track Pants (polyester) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 131 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Jockey 24 x 7 Men Black Sport Shorts 9426 (cotton) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 112 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch in Spring:
+
+* Top: Free Authority Men's Army Washed Grey T-shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 175 times, Score: 5.92)
+* Bottom: Jockey 24 x 7 Men Black Sport Shorts 9426 (Category: Loungewear and Nightwear, Season: Summer) (Material: cotton, Worn: 112 times, Score: 6.07)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes the environmental impact of production, transportation, and packaging.
+2. High-wear garments: Both the Free Authority Men's Army Washed Grey T-shirt and Jockey 24 x 7 Men Black Sport Shorts 9426 have been worn many times, which",True,False,,6,True,True,,6,200,False,True
+22,"User Request: I have a formal dinner today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Reid & Taylor Men Solid Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 39 times, Score: 3.47)
+- s.Oliver Men's Denim Dstrct Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 17 times, Score: 4.25)
+- Proline Men Teal Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 3 times, Score: 2.68)
+- Mother Earth Men Solid Maroon Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 31 times, Score: 4.24)
+- Fila Men White T-Shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 6 times, Score: 3.56)
+- ADIDAS Men Printed White T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 76 times, Score: 4.83)
+- Dark Knight Men's Joker Color Splash Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 3 times, Score: 3.61)
+- Jockey Sport Performance  Men Green Brief SP02 [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 11 times, Score: 3.94)
+- Locomotive Men Solid Poplin Lamech Navy Blue Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 63 times, Score: 6.33)
+- Lee Men Printed Grey Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 104 times, Score: 5.18)
+- Guerrilla Men's Need Money Yellow T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 113 times, Score: 5.74)
+- Puma Men's Summer Graphic Black T-shirt [Category: Topwear, Season: Summer] (Material: polyester|cotton, Worn: 90 times, Score: 5.5)
+- ADIDAS Originals Men St Grp Blue T-Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 39 times, Score: 3.47)
+- Black coffee Men Micheal White Slim Fit Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 3 times, Score: 4.89)
+- Proline Men Brown Polo T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 22 times, Score: 4.32)","I recommend wearing your Black coffee Men Micheal White Slim Fit Shirt (cotton) for your formal dinner. These items are the best available option from your wardrobe, though not specifically tagged for Summer. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 3 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Guerrilla Men's Need Money Yellow T-shirt (cotton) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 113 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","What a great opportunity to create a sustainable outfit from your existing wardrobe!
+
+For a formal summer dinner, I recommend the following outfit:
+
+* Top: s.Oliver Men's Denim Dstrct Grey T-shirt (Material: cotton, Worn: 17 times, Score: 4.25)
+* Bottom: (Not included in your wardrobe, but I'll suggest a sustainable option: wear a pair of lightweight, breathable, and comfortable linen pants or a flowy maxi skirt that you already own. If not, consider repurposing an old pair of pants or a flowy skirt to create a unique and sustainable look.)
+
+Why this outfit?
+
+1. **Seasonal relevance**: The s.Oliver Men's Denim Dstrct Grey T-shirt is a perfect choice for a summer dinner, as it's a lightweight, breathable, and comfortable option.
+2. **Cotton material**: Cotton is a natural, biodegradable, and renewable resource, making it a more sustainable",True,False,,6,True,False,,6,200,False,True
+23,"User Request: I have a casual lunch today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Calvin Klein Mens blue Boxers [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 38 times, Score: 4.69)
+- Belmonte Men Check Purple Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 33 times, Score: 4.49)
+- Myntra Men Red Natural Diet T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 40 times, Score: 4.37)
+- Urban Yoga Men Grey  Bottom Yoga Pants [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 56 times, Score: 6.18)
+- Horsefly Men Charcoal T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 8 times, Score: 3.82)
+- Ed Hardy Men's Buddha Light Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 28 times, Score: 4.55)
+- United Colors of Benetton Men Check Red Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 80 times, Score: 5.47)
+- Puma Men's Island Green T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 141 times, Score: 5.67)
+- Nike Men Black Jdi City T-Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 19 times, Score: 4.29)
+- Wrangler Men August Stripe Look Checks Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 108 times, Score: 6.07)
+- Indigo Nation Men Bling Purple Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 44 times, Score: 3.89)
+- Highlander Men Check Haley Red Shirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 88 times, Score: 6.43)
+- John Players Men Stripes Grey Polo T-Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 6 times, Score: 4.01)
+- Puma Men Striped LS Polo Black Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 130 times, Score: 7.06)
+- United Colors of Benetton Men White Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 16 times, Score: 3.02)","I recommend wearing your Highlander Men Check Haley Red Shirts (cotton) paired with your Urban Yoga Men Grey  Bottom Yoga Pants (cotton) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 144 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Highlander Men Check Haley Red Shirts (cotton) paired with your Urban Yoga Men Grey  Bottom Yoga Pants (cotton) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 144 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual summer lunch:
+
+* Top: Highlander Men Check Haley Red Shirts (Category: Topwear, Season: Summer) (Material: cotton, Worn: 88 times, Score: 6.43)
+* Bottom: Urban Yoga Men Grey Bottom Yoga Pants (Category: Bottomwear, Season: Summer) (Material: cotton, Worn: 56 times, Score: 6.18)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes the environmental impact of production, transportation, and packaging.
+2. Seasonal relevance: Since it's summer, I've chosen an outfit that's suitable for the season. This reduces the need for air conditioning or heating, which is a significant contributor to greenhouse gas emissions.
+3. Material choice: Cotton is a natural, biodegradable",True,False,,6,True,True,,6,200,False,True
+24,"User Request: I have a university class today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- United Colors of Benetton Men Navy Blue Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 91 times, Score: 5.82)
+- Status Quo Men Black Polo Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 36 times, Score: 4.5)
+- Genesis Men Striped Blue Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 44 times, Score: 4.78)
+- ADIDAS Men Navy Blue Tracksuit [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 24 times, Score: 3.67)
+- Classic Polo Men's Red Polo With Stripe T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 64 times, Score: 5.18)
+- United Colors of Benetton Men Light Green Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 17 times, Score: 3.97)
+- Jockey ELANCE Men White Brief 1010 [Category: Innerwear, Season: Winter] (Material: cotton, Worn: 23 times, Score: 4.19)
+- Puma Men Training  White TShirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 37 times, Score: 3.89)
+- Puma Men White and Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 28 times, Score: 4.43)
+- Reebok Men Tri Color White T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 17 times, Score: 3.27)
+- s.Oliver Men Striped Dark Blue Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 73 times, Score: 4.55)
+- Flying Machine Men Tee Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 59 times, Score: 5.12)
+- Myntra Men Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 67 times, Score: 5.3)
+- Wrangler Men Flag Green Sweater [Category: Topwear, Season: Fall] (Material: cotton, Worn: 15 times, Score: 4.12)
+- Highlander Men Khaki Trousers [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 76 times, Score: 4.87)","I recommend wearing your Jockey ELANCE Men White Brief 1010 (cotton) for your university class. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 23 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Men Navy Blue Shirt (cotton) paired with your Highlander Men Khaki Trousers (cotton) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 167 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: United Colors of Benetton Men Navy Blue Shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 91 times, Score: 5.82)
+* Bottom: Highlander Men Khaki Trousers (Category: Bottomwear, Season: Summer) (Material: cotton, Worn: 76 times, Score: 4.87)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing garment, you're reducing the need for new, resource-intensive production.
+2. Cotton content: Both the shirt and trousers are made from cotton, a natural, biodegradable, and renewable material.
+3. High-worn scores: Both garments have high worn scores, indicating they've been well-loved and cared for, which reduces the likelihood of them being discarded or replaced.
+4. Versatility: The navy",True,False,,6,True,False,,5,200,False,True
+25,"User Request: I have a university class today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Flying Machine Men Grey Polo Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 124 times, Score: 5.62)
+- Locomotive Men Check White Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 54 times, Score: 4.71)
+- French Connection Men Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 43 times, Score: 4.7)
+- ADIDAS Men Crew Black T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 72 times, Score: 6.17)
+- Flying Machine Men Ydc Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 70 times, Score: 5.35)
+- United Colors of Benetton Men Solid Yellow Tshirts [Category: Topwear, Season: Summer] (Material: cotton, Worn: 69 times, Score: 5.04)
+- Peter England Men Black Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 111 times, Score: 7.03)
+- Arrow Men Stripes Green Slim Fit Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 148 times, Score: 7.03)
+- FCUK White Brief [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 64 times, Score: 5.28)
+- Locomotive Men Check Navy Blue Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 43 times, Score: 4.84)
+- Reebok Men Graphic White T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 35 times, Score: 4.63)
+- Nike Men Solid Red Sweatshirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 85 times, Score: 5.24)
+- Facit Men White Trenz Brief [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 143 times, Score: 5.92)
+- Locomotive Men Printed Navy Blue TShirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 2 times, Score: 2.67)
+- Wrangler Men Tee Navy Blue T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 26 times, Score: 4.26)","I recommend wearing your ADIDAS Men Crew Black T-shirt (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 72 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Arrow Men Stripes Green Slim Fit Shirt (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 148 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: Flying Machine Men Grey Polo Tshirts (Category: Topwear, Season: Fall) (Material: cotton, Worn: 124 times, Score: 5.62)
+* Bottom: Peter England Men Black Jeans (Category: Bottomwear, Season: Summer) (Material: cotton|elastane, Worn: 111 times, Score: 7.03)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing the Flying Machine Men Grey Polo Tshirts and Peter England Men Black Jeans, we are reusing garments that have already been worn and loved. This reduces the need for new, resource-intensive clothing.
+2. Lower-impact materials: Both the cotton and cotton|elastane materials used in these garments are biodegradable and have a lower environmental impact compared to synthetic materials like polyester.
+3. High-wear scores",True,False,,6,True,False,,8,200,False,True
+26,"User Request: I have a formal dinner today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Arrow Woman Grey Trousers [Category: Bottomwear, Season: Fall] (Material: polyester|viscose|elastane, Worn: 65 times, Score: 4.91)
+- Tantra Women's Prism Purple T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 110 times, Score: 6.76)
+- W Women Printed White Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 55 times, Score: 5.67)
+- Bwitch Women Cream Briefs [Category: Innerwear, Season: Summer] (Material: nylon, Worn: 92 times, Score: 4.85)
+- Enamor Women Black Bra [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 72 times, Score: 5.41)
+- Bwitch Women Black Brief [Category: Innerwear, Season: Summer] (Material: polyester, Worn: 7 times, Score: 4.53)
+- Angry Birds Women Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 21 times, Score: 3.45)
+- Mineral Women Blue Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 121 times, Score: 5.64)
+- Puma Women Edition White Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 32 times, Score: 5.28)
+- SDL by Sweet Dreams Purple & White Pyjama Set [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 69 times, Score: 5.27)
+- Fabindia Women Printed Off White Kurti [Category: Topwear, Season: Summer] (Material: cotton, Worn: 59 times, Score: 4.86)
+- Elle Women Black Jumpsuit [Category: Dress, Season: Summer] (Material: polyester, Worn: 98 times, Score: 6.1)
+- Wrangler Women Water Flower Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 46 times, Score: 4.52)
+- Mother Earth Women Red Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 14 times, Score: 4.51)
+- Folklore Women Printed Purple & Blue Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 28 times, Score: 4.35)","I recommend wearing your Arrow Woman Grey Trousers (polyester|viscose|elastane) for your formal dinner. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 65 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Arrow Woman Grey Trousers (polyester|viscose|elastane) for your formal dinner. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 65 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","What a wonderful wardrobe you have! I'm excited to create a sustainable outfit for your formal dinner using only the pieces you already own.
+
+For a Fall evening, I recommend pairing the Arrow Woman Grey Trousers with the Puma Women Edition White Tops. Here's why:
+
+1. **Seasonal relevance**: Both the trousers and the top are suitable for Fall, ensuring you're dressed for the occasion.
+2. **Material choice**: The trousers are made from a polyester-viscose-elastane blend, which is a more sustainable option compared to nylon or polyester-only fabrics. The top is made from cotton, a natural, biodegradable material.
+3. **Wear score**: Both pieces have a high wear score, indicating they've been worn frequently and are well-loved. This reduces the likelihood of them being discarded or replaced.
+4. **Style versatility**: The trousers can be dressed up or down, making them suitable for a formal dinner. The white top adds a touch of elegance",True,False,,6,True,False,,5,200,False,True
+27,"User Request: I have a university class today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- United Colors Of Benetton Women Light Winter Black Sweatshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 3 times, Score: 5.08)
+- Fabindia Women Navy Blue Mangalgiri Churidar [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 24 times, Score: 4.05)
+- Flying Machine Women Cotton Black Dress [Category: Dress, Season: Summer] (Material: cotton, Worn: 30 times, Score: 4.44)
+- Forever New Women Ivory Printed White Top [Category: Topwear, Season: Summer] (Material: cotton|modal, Worn: 21 times, Score: 4.31)
+- Avirate Black Night Dress [Category: Loungewear and Nightwear, Season: Summer] (Material: nylon|elastane, Worn: 79 times, Score: 4.48)
+- Ayaany Women Cream Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 75 times, Score: 6.56)
+- s.Oliver Women White Liberty FreedomT-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 13 times, Score: 3.59)
+- Elle Women Green Color Clash Top [Category: Topwear, Season: Summer] (Material: cotton|viscose, Worn: 114 times, Score: 5.72)
+- Scullers For Her Women Purple Top [Category: Topwear, Season: Summer] (Material: polyester, Worn: 37 times, Score: 4.19)
+- Van Heusen Woman Printed Pink Top [Category: Topwear, Season: Summer] (Material: polyester, Worn: 45 times, Score: 4.47)
+- Sepia Women Teal Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 66 times, Score: 5.3)
+- Vishudh Women Pink Salwar and Dupatta [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 53 times, Score: 4.62)
+- Remanika Women Lime Green Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 22 times, Score: 4.0)
+- Flying Machine Women RN HS White Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 5 times, Score: 3.66)
+- Arrow Woman Black Printed Jeggings [Category: Bottomwear, Season: Fall] (Material: polyester|elastane, Worn: 3 times, Score: 2.99)","I recommend wearing your Elle Women Green Color Clash Top (cotton|viscose) paired with your Arrow Woman Black Printed Jeggings (polyester|elastane) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 117 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Ayaany Women Cream Kurta (cotton) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 75 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: United Colors Of Benetton Women Light Winter Black Sweatshirts (Category: Topwear, Season: Fall)
+* Bottom: Fabindia Women Navy Blue Mangalgiri Churidar (Category: Bottomwear, Season: Summer)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing the black sweatshirt and navy blue churidar, you're reusing two garments that are already in your wardrobe. This reduces the need for new, resource-intensive purchases.
+2. Lower-impact materials: Both the sweatshirt and churidar are made from cotton, a natural, biodegradable, and renewable resource. This reduces the environmental impact compared to synthetic materials like polyester or nylon.
+3. Versatility: The black sweatshirt can be dressed up or down, making it suitable for a university class. The navy blue churidar is a",True,False,,6,True,False,,8,200,False,True
+28,"User Request: I have a weekend errand today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Myntra Men's I Am Drunk White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 71 times, Score: 5.39)
+- Wrangler Men's Star Flag Print Grey Melange T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 55 times, Score: 4.64)
+- Locomotive Men Printed Grey T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 21 times, Score: 5.08)
+- Puma Men Black Printed Shield T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 27 times, Score: 4.25)
+- Nike Men Blue T-shirt [Category: Topwear, Season: Fall] (Material: polyester|elastane, Worn: 40 times, Score: 3.5)
+- Flying Machine Men FS Solid Grey Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 46 times, Score: 4.87)
+- Quiksilver Men Red Check Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 10 times, Score: 2.82)
+- Scullers Men Checked Purple Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 17 times, Score: 4.28)
+- Puma Men Graphic Print White Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 80 times, Score: 5.23)
+- Mark Taylor Men Red Printed T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 71 times, Score: 6.43)
+- Peter England Men Essentials Black Brief [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 110 times, Score: 5.97)
+- Scullers Men's Green Polo T-Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 1 times, Score: 3.91)
+- Hanes Men Knitted Blue Shorts [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 31 times, Score: 3.3)
+- Proline Men Grey Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 29 times, Score: 3.72)
+- Wills Lifestyle Men Pink Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 24 times, Score: 4.4)","I recommend wearing your Myntra Men's I Am Drunk White T-shirt (cotton) for your weekend errand. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 71 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Myntra Men's I Am Drunk White T-shirt (cotton) for your weekend errand. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 71 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your weekend errand:
+
+* Top: Myntra Men's I Am Drunk White T-shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 71 times, Score: 5.39)
+* Bottom: Hanes Men Knitted Blue Shorts (Category: Loungewear and Nightwear, Season: Summer) (Material: cotton, Worn: 31 times, Score: 3.3)
+* Footwear: Not specified, but you can opt for a pair of comfortable sandals or sneakers that you already own.
+
+This outfit is a great choice for a summer weekend errand because it's lightweight, breathable, and comfortable. The Myntra Men's I Am Drunk White T-shirt is a versatile piece that can be dressed up or down, and it's been worn 71 times, which means it's already broken in and ready for action. The Hanes Men",True,False,,6,True,False,,5,200,False,True
+29,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Urban Yoga Women's Namaste Yellow T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 30 times, Score: 4.34)
+- Lee Women Solid Purple Tops [Category: Topwear, Season: Summer] (Material: cotton, Worn: 44 times, Score: 4.81)
+- SDL by Sweet Dreams Women Green Printed Night Suit S11-3124 [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.82)
+- Aurelia Women Printed Red Kurtis [Category: Topwear, Season: Fall] (Material: cotton, Worn: 64 times, Score: 5.04)
+- BIBA Women Printed Pink Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 57 times, Score: 5.18)
+- Puma Women Black Capris [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 3 times, Score: 5.05)
+- ADIDAS Women Pink TShirt [Category: Topwear, Season: Fall] (Material: cotton|elastane, Worn: 90 times, Score: 5.87)
+- Aneri Women Mitu Multi Coloured Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 60 times, Score: 5.08)
+- Hanes Women Black Cotton Stretch Moulded Contour Bra [Category: Innerwear, Season: Winter] (Material: cotton|elastane, Worn: 12 times, Score: 5.24)
+- Jealous 21 Women Pink Flowery Halter Neck Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.98)
+- Scullers For Her Beige Trouser [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 32 times, Score: 4.55)
+- Vishudh Women Grey Printed Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 84 times, Score: 6.44)
+- Wrangler Women Cowl Purple Sweatshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 14 times, Score: 4.24)
+- Fabindia Women Blue Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 43 times, Score: 4.79)
+- Elle Women Coral Essentials T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 21 times, Score: 4.31)","I recommend wearing your Hanes Women Black Cotton Stretch Moulded Contour Bra (cotton|elastane) for your office meeting. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 12 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your ADIDAS Women Pink TShirt (cotton|elastane) paired with your Hanes Women Black Cotton Stretch Moulded Contour Bra (cotton|elastane) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 102 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Top: Aurelia Women Printed Red Kurtis (Category: Topwear, Season: Fall) (Material: cotton, Worn: 64 times, Score: 5.04)
+* Bottom: Puma Women Black Capris (Category: Bottomwear, Season: Summer) (Material: cotton|elastane, Worn: 3 times, Score: 5.05)
+* Innerwear: Hanes Women Black Cotton Stretch Moulded Contour Bra (Category: Innerwear, Season: Winter) (Material: cotton|elastane, Worn: 12 times, Score: 5.24)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing items that have been worn multiple times, we're reducing the need for new, resource-intensive garments.
+2. Seasonal versatility: The Aurelia Women Printed Red Kurtis can be worn",True,False,,6,True,False,,5,200,False,True
+30,"User Request: I have a university class today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Enamor Women Taupe Nightdress [Category: Loungewear and Nightwear, Season: Summer] (Material: polyester, Worn: 110 times, Score: 5.48)
+- Peri Peri Women Purple Brief [Category: Innerwear, Season: Summer] (Material: nylon|elastane, Worn: 42 times, Score: 3.88)
+- ADIDAS Women Maroon T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 141 times, Score: 5.32)
+- Mother Earth Women Pink Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 63 times, Score: 4.94)
+- Lovable Skin Coloured Bra CES 421 [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 24 times, Score: 4.09)
+- ADIDAS Women's Prt Yellow T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 58 times, Score: 5.09)
+- Jealous 21 Women Black Shimmery Falling Neck Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 6 times, Score: 4.72)
+- Mineral Women White Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 63 times, Score: 5.19)
+- United Colors of Benetton Women Washed Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 84 times, Score: 4.98)
+- Lee Women Jane Blue Striped Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 49 times, Score: 4.74)
+- United Colors of Benetton Women White Shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 30 times, Score: 4.1)
+- Mineral Women Teal Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 26 times, Score: 5.55)
+- Avirate Black Wired Corset Shapewear [Category: Innerwear, Season: Summer] (Material: nylon|elastane, Worn: 136 times, Score: 4.87)
+- Avirate Multicoloured Dress [Category: Dress, Season: Fall] (Material: polyester|elastane, Worn: 113 times, Score: 4.82)
+- W Women Printed White Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 97 times, Score: 5.87)","I recommend wearing your Avirate Multicoloured Dress (polyester|elastane) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 113 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your W Women Printed White Kurtas (cotton) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 97 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* ADIDAS Women Maroon T-shirt (Category: Topwear, Season: Fall) (Material: polyester, Worn: 141 times, Score: 5.32)
+* United Colors of Benetton Women Washed Blue Jeans (Category: Bottomwear, Season: Summer) (Material: cotton|elastane, Worn: 84 times, Score: 4.98)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing items from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes waste and supports a more sustainable fashion approach.
+2. Seasonal relevance: The ADIDAS Maroon T-shirt is suitable for the Fall season, and the United Colors of Benetton Washed Blue Jeans can be worn in any season, making them a versatile choice.
+3. Material selection: Both",True,False,,6,True,True,,5,200,False,True
+31,"User Request: I have a weekend errand today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Jealous 21 Women Medium Dark Blue Jegging [Category: Bottomwear, Season: Fall] (Material: cotton|elastane, Worn: 15 times, Score: 3.43)
+- Alma Women White Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 35 times, Score: 3.85)
+- Puma Women Essential Skinny Navy Blue Track Pant [Category: Bottomwear, Season: Fall] (Material: polyester|elastane, Worn: 79 times, Score: 5.08)
+- Nike Women Miller Blue T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 1 times, Score: 3.12)
+- Mother Earth Women Printed Beige Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 67 times, Score: 6.34)
+- Elle Women Off White Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 3.97)
+- Little Miss Women Printed Green T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 84 times, Score: 5.11)
+- Vishudh Women Purple Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 41 times, Score: 3.91)
+- Jealous 21 Women  Pink Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 109 times, Score: 5.97)
+- Jealous 21 Women Jealous Ranae White Top White Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 28 times, Score: 3.17)
+- Flying Machine Women Cotton Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 95 times, Score: 5.57)
+- ADIDAS Women Printed Navy Blue Sweatshirts [Category: Topwear, Season: Fall] (Material: cotton|elastane, Worn: 131 times, Score: 5.6)
+- Jealous 21 Women Green Printed T-Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 33 times, Score: 4.25)
+- Jealous 21 Women Washed Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 21 times, Score: 4.19)
+- Mother Earth Women Kalamkari Red Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 6 times, Score: 4.01)","I recommend wearing your Jealous 21 Women  Pink Top (cotton) paired with your Puma Women Essential Skinny Navy Blue Track Pant (polyester|elastane) for your weekend errand. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 188 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Jealous 21 Women Medium Dark Blue Jegging (cotton|elastane) for your weekend errand. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 15 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your weekend errand:
+
+* Bottomwear: Jealous 21 Women Medium Dark Blue Jegging (Category: Bottomwear, Season: Fall) (Material: cotton|elastane, Worn: 15 times, Score: 3.43)
+* Topwear: Mother Earth Women Printed Beige Kurtas (Category: Topwear, Season: Fall) (Material: cotton, Worn: 67 times, Score: 6.34)
+
+Why this outfit?
+
+1. Reuse of existing garments: By choosing the dark blue jegging and the printed beige kurtas, we're reusing two garments that are already in your wardrobe. This reduces the need for new, resource-intensive purchases.
+2. Lower-impact materials: Both the cotton|elastane jegging and the cotton kurtas are made from natural, biodegradable materials. Polyester, on the other hand, is a synthetic material that",True,False,,6,True,False,,7,200,False,True
+32,"User Request: I have a university class today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- United Colors of Benetton Women Solid Green T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 34 times, Score: 4.09)
+- Angry Birds Women Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 41 times, Score: 4.46)
+- Arrow Woman Joanna Navy Blue Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 71 times, Score: 6.27)
+- Elle Women Multi Coloured Top [Category: Topwear, Season: Summer] (Material: polyester, Worn: 48 times, Score: 4.07)
+- United Colors of Benetton Women Navy Blue Top [Category: Topwear, Season: Summer] (Material: viscose|polyester, Worn: 148 times, Score: 6.58)
+- Aneri Women Lavender Kurti [Category: Topwear, Season: Summer] (Material: cotton, Worn: 24 times, Score: 4.39)
+- W Women U Neck Short Sleeve White Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 42 times, Score: 4.68)
+- Arrow Woman Lavender Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 43 times, Score: 3.96)
+- Aurelia Women Beige Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 102 times, Score: 5.96)
+- Amante Women Pack of 3 Briefs PFCN04 [Category: Innerwear, Season: Winter] (Material: cotton, Worn: 34 times, Score: 4.97)
+- Wrangler Women Printed Maroon T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 35 times, Score: 3.8)
+- Angry Birds Women Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 55 times, Score: 4.87)
+- Vishudh Women Printed Olive Green Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 39 times, Score: 4.7)
+- Amante Women Pink Briefs PCLC11 [Category: Innerwear, Season: Winter] (Material: cotton|nylon|elastane, Worn: 70 times, Score: 4.65)
+- Myntra Women Pink Checked Casual Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 96 times, Score: 5.91)","I recommend wearing your Amante Women Pack of 3 Briefs PFCN04 (cotton) for your university class. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 34 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Arrow Woman Joanna Navy Blue Shirt (cotton) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 71 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* United Colors of Benetton Women Navy Blue Top [Category: Topwear, Season: Summer] (Material: viscose|polyester, Worn: 148 times, Score: 6.58)
+* Amante Women Pink Briefs PCLC11 [Category: Innerwear, Season: Winter] (Material: cotton|nylon|elastane, Worn: 70 times, Score: 4.65)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing the United Colors of Benetton Navy Blue Top and Amante Pink Briefs, you're reusing garments that have already been worn multiple times, reducing the need for new, resource-intensive clothing.
+2. Lower-impact materials: The viscose-polyester blend in the United Colors of Benetton top is a more sustainable choice compared to polyester-only materials,",True,False,,6,True,False,,7,200,False,True
+33,"User Request: I have a casual lunch today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Flying Machine Men Solid Black Sweaters [Category: Topwear, Season: Fall] (Material: acrylic, Worn: 10 times, Score: 3.26)
+- DC Comics Men Blue Printed Lounge Pants [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 72 times, Score: 4.66)
+- Proline Men White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 34 times, Score: 4.65)
+- United Colors of Benetton Men Striped White Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 0 times, Score: 3.89)
+- Nike Men's AsVapor ss black T-shirt [Category: Topwear, Season: Summer] (Material: polyester|elastane, Worn: 11 times, Score: 3.65)
+- Basics Men Blue Checked Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 52 times, Score: 6.12)
+- John Players Men Red Gingham Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 13 times, Score: 3.78)
+- Jockey COMFORT PLUS Men Comfort Plus Olive Trunks 8015 [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 19 times, Score: 5.39)
+- United Colors of Benetton Men White Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 71 times, Score: 5.05)
+- Mr.Men Men Printed Blue Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 10 times, Score: 3.12)
+- Manchester United Men Solid White Shorts [Category: Bottomwear, Season: Fall] (Material: cotton|polyester, Worn: 34 times, Score: 4.41)
+- Indigo Nation Men Printed Black Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 113 times, Score: 5.94)
+- Indigo Nation Men Solid White Shirts [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 85 times, Score: 4.57)
+- Urban Yoga Men's Bottom Black Track Pant [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 18 times, Score: 4.32)
+- Locomotive Men Bade Blue Jeans [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 105 times, Score: 5.8)","I recommend wearing your United Colors of Benetton Men White Shirt (cotton) paired with your Locomotive Men Bade Blue Jeans (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 176 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Locomotive Men Bade Blue Jeans (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 105 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch:
+
+* Top: United Colors of Benetton Men White Shirt (Category: Topwear, Season: Fall) (Material: cotton, Worn: 71 times, Score: 5.05)
+* Bottom: Locomotive Men Bade Blue Jeans (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 105 times, Score: 5.8)
+
+This outfit is a great choice for a casual lunch in Fall. The United Colors of Benetton Men White Shirt is a versatile and timeless piece that can be dressed up or down, and it's already been worn 71 times, making it a high-scoring item in your wardrobe. The Locomotive Men Bade Blue Jeans are also a reliable choice, having been worn 105 times and scoring high in terms of sustainability.
+
+I chose this outfit over others because it:
+
+* Maximizes the reuse of already",True,False,,6,True,False,,6,200,False,True
+34,"User Request: I have a formal dinner today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Mr. Men Men HA! Navy Blue Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 103 times, Score: 5.21)
+- Nike Men Breakline Grey Track Pants [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 127 times, Score: 5.6)
+- ADIDAS Men Acm Red Jersey [Category: Topwear, Season: Fall] (Material: polyester, Worn: 99 times, Score: 5.34)
+- Spykar Men Printed White T-Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 36 times, Score: 4.01)
+- Arrow Men Pink Striped Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 9 times, Score: 4.38)
+- Nike Men Solid Grey T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 40 times, Score: 4.36)
+- Spykar Men Green Printed T-shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 45 times, Score: 4.65)
+- Indigo Nation Men Solid White Shirts [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 65 times, Score: 5.14)
+- ADIDAS Men  Green  Tshirts [Category: Topwear, Season: Fall] (Material: polyester, Worn: 62 times, Score: 5.66)
+- Puma Men Black Polo neck T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 13 times, Score: 3.99)
+- Locomotive Men Lio Blue Jeans [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 20 times, Score: 4.03)
+- ADIDAS Men Lfc Auth Hood Grey Sweatshirts [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 50 times, Score: 4.34)
+- Puma Men Heroes Graphic White Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 9 times, Score: 3.71)
+- Hanes Men String Premium String Bikini Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 29 times, Score: 4.54)
+- Genesis Maroon Formal Shirt [Category: Topwear, Season: Winter] (Material: cotton, Worn: 43 times, Score: 4.37)","I recommend wearing your Indigo Nation Men Solid White Shirts (cotton|polyester) for your formal dinner. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 65 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Mr. Men Men HA! Navy Blue Tshirts (cotton) for your formal dinner. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 103 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your formal dinner:
+
+* Top: Mr. Men Men HA! Navy Blue Tshirts (Category: Topwear, Season: Fall) (Material: cotton, Worn: 103 times, Score: 5.21)
+* Bottom: Nike Men Breakline Grey Track Pants [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 127 times, Score: 5.6)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing garment, you're reducing the need for new, resource-intensive production.
+2. Material: Cotton is a natural, biodegradable material that's more sustainable than polyester. Although the track pants are made of polyester, they've already been worn extensively, making them a more sustainable choice than buying new, polyester-based alternatives.
+3. Score: Both the navy blue t-shirt and grey track pants have high scores, indicating",True,False,,6,True,False,,6,200,False,True
+35,"User Request: I have a university class today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Inkfruit Men's Just bowl It Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 38 times, Score: 4.66)
+- ADIDAS Men Solid Green Sweatshirts [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 67 times, Score: 6.09)
+- Proline Mens Solid Grey Polo Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 92 times, Score: 5.59)
+- Mr.Men Men's Thats Funny Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 10 times, Score: 4.17)
+- Angry Birds Men Charcoal T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 61 times, Score: 6.38)
+- ADIDAS Men Blue Printed T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 21 times, Score: 3.86)
+- Mark Taylor Men Printed Green Tshirts [Category: Topwear, Season: Fall] (Material: polyester|cotton, Worn: 26 times, Score: 4.1)
+- Nike Men's Kobe Epic White T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 105 times, Score: 4.99)
+- Just Natural Men Brown Reversible Jacket [Category: Topwear, Season: Summer] (Material: polyester, Worn: 55 times, Score: 4.45)
+- Classic Polo Men's Swiss Yellow T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 8 times, Score: 3.85)
+- Proline Mustard Yellow Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 83 times, Score: 5.36)
+- Status Quo Men Red Polo Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 54 times, Score: 4.58)
+- Scullers Men Scul White Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 124 times, Score: 5.8)
+- United Colors of Benetton Men White Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 176 times, Score: 5.92)
+- Wrangler Men Grey Glow In Dark T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 19 times, Score: 4.1)","I recommend wearing your Angry Birds Men Charcoal T-shirt (cotton) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 61 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Scullers Men Scul White Shirts (cotton) for your university class. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 124 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: ADIDAS Men Solid Green Sweatshirts (Category: Topwear, Season: Fall) (Material: cotton|polyester, Worn: 67 times, Score: 6.09)
+* Bottom: (Assuming you have a pair of jeans or trousers that are suitable for the winter weather)
+
+I chose the ADIDAS Men Solid Green Sweatshirts for several reasons:
+
+1. Reuse: This top has been worn 67 times, which means it has already been broken in and is comfortable to wear.
+2. Material: Although it's a blend of cotton and polyester, the cotton content is significant, making it a more sustainable choice compared to pure polyester.
+3. Seasonality: Since it's winter, a sweatshirt is a great choice for the cold weather. The ADIDAS Men Solid Green Sweatshirts are suitable for the season, and you can layer",True,False,,6,True,False,,5,200,False,True
+36,"User Request: I have a weekend errand today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Amante Women Maroon Briefs PCLC11 [Category: Innerwear, Season: Winter] (Material: cotton|nylon|elastane, Worn: 17 times, Score: 3.91)
+- French Connection Women White & Blue  Striped Dress [Category: Dress, Season: Summer] (Material: cotton, Worn: 65 times, Score: 5.26)
+- Jealous 21 Women Black Flower Print Pink Top [Category: Topwear, Season: Fall] (Material: polyester, Worn: 9 times, Score: 3.33)
+- Nike Women Black Capris [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 56 times, Score: 4.64)
+- Pieces Women Green Jeggings [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 42 times, Score: 3.97)
+- Jealous 21 Women Black Shimmery Halter Neck Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 9 times, Score: 3.6)
+- Elle Women Red Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 71 times, Score: 5.37)
+- Wildcraft Women Purple T-shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 96 times, Score: 5.53)
+- W Women Printed Grey Kurtas [Category: Topwear, Season: Summer] (Material: cotton, Worn: 39 times, Score: 5.55)
+- Forever New Women's Printed White Skirt [Category: Bottomwear, Season: Summer] (Material: polyester, Worn: 44 times, Score: 4.28)
+- SDL by Sweet Dreams Women White & Pink Printed Night Suit S11-3231 [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 6 times, Score: 3.84)
+- Lee Women Printed Purple Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 109 times, Score: 5.75)
+- Vishudh Women Floral Print Orange Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 22 times, Score: 4.32)
+- Urban Yoga Women's Bij Red Track Pant [Category: Bottomwear, Season: Fall] (Material: cotton|elastane, Worn: 54 times, Score: 4.79)
+- Fabindia Women Blue Churidar [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 24 times, Score: 4.41)","I recommend wearing your Jealous 21 Women Black Flower Print Pink Top (polyester) paired with your Urban Yoga Women's Bij Red Track Pant (cotton|elastane) for your weekend errand. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 63 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Lee Women Printed Purple Shirt (cotton) paired with your Urban Yoga Women's Bij Red Track Pant (cotton|elastane) for your weekend errand. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 163 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your weekend errand:
+
+* Jealous 21 Women Black Flower Print Pink Top [Category: Topwear, Season: Fall] (Material: polyester, Worn: 9 times, Score: 3.33)
+* Urban Yoga Women's Bij Red Track Pant [Category: Bottomwear, Season: Fall] (Material: cotton|elastane, Worn: 54 times, Score: 4.79)
+
+This outfit is a great choice for a Fall weekend errand because it's a comfortable and practical combination that can be dressed up or down. The black flower print top is a versatile piece that can be paired with many bottoms, and the red track pant is a great choice for a casual, yet stylish, look.
+
+I chose this outfit because it maximizes the reuse of already-owned garments, and the materials used are lower-impact. Polyester is a synthetic material that requires less water and energy to produce than",True,False,,6,True,False,,7,200,False,True
+37,"User Request: I have a casual lunch today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- FIFA Mens 1982 Spain Red T-shirt [Category: Topwear, Season: Winter] (Material: cotton, Worn: 23 times, Score: 4.19)
+- Reid & Taylor Men Check White Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 69 times, Score: 5.35)
+- John Players Men Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 90 times, Score: 5.84)
+- Arrow Sport Men Check Purple Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 12 times, Score: 3.78)
+- U.S. Polo Assn. Men Solid Purple Shirt [Category: Topwear, Season: Winter] (Material: cotton, Worn: 20 times, Score: 5.27)
+- ADIDAS Men's Pune Warriors Graphic Black T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 72 times, Score: 5.07)
+- U.S. Polo Assn. Men Blue Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 51 times, Score: 4.93)
+- Puma Men Navy Blue T-shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 23 times, Score: 2.68)
+- Highlander Men Green Check Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 93 times, Score: 5.87)
+- FCUK Underwear Blue Printed Boxers [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 53 times, Score: 4.95)
+- ADIDAS Men Blue & Black Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 116 times, Score: 5.74)
+- Disney Men Maroon Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 33 times, Score: 4.39)
+- Nike Men Black Printed T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 45 times, Score: 4.34)
+- Nike Men Black Track Pants [Category: Bottomwear, Season: Summer] (Material: polyester, Worn: 42 times, Score: 4.22)
+- Fila Men Blanc Red Sweater [Category: Topwear, Season: Fall] (Material: cotton, Worn: 4 times, Score: 5.08)","I recommend wearing your ADIDAS Men Blue & Black Check Shirt (cotton) paired with your John Players Men Blue Jeans (cotton) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 206 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your John Players Men Blue Jeans (cotton) for your casual lunch. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 90 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual summer lunch:
+
+* Top: ADIDAS Men's Pune Warriors Graphic Black T-shirt (Category: Topwear, Season: Summer) (Material: cotton, Worn: 72 times, Score: 5.07)
+* Bottom: John Players Men Blue Jeans (Category: Bottomwear, Season: Summer) (Material: cotton, Worn: 90 times, Score: 5.84)
+
+I chose this outfit for several reasons:
+
+1. Reuse of existing garments: By selecting items from your existing wardrobe, we're reducing the need for new, resource-intensive clothing.
+2. Seasonal relevance: The ADIDAS Men's Pune Warriors Graphic Black T-shirt and John Players Men Blue Jeans are suitable for summer, making them a perfect match for your casual lunch.
+3. Material choice: Both the ADIDAS T-shirt and John Players Jeans are made from cotton, a natural, biodegradable,",True,False,,6,True,False,,5,200,False,True
+38,"User Request: I have a office meeting today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Highlander Men Classic Chinos Beige Trousers [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 31 times, Score: 5.72)
+- Basics Men Beige Trousers [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 36 times, Score: 4.51)
+- Genesis Black Formal Shirt [Category: Topwear, Season: Winter] (Material: cotton, Worn: 75 times, Score: 4.69)
+- Urban Yoga Men's Orange T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 133 times, Score: 5.28)
+- Basics Men White Printed Polo T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 57 times, Score: 4.92)
+- ADIDAS Men Blue & White Chelsea FC T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 109 times, Score: 6.03)
+- Hanes Men Navy Blue Shorts [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 122 times, Score: 5.94)
+- Levis Men Jazz Stripes Blue Trunks [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 30 times, Score: 3.99)
+- Arrow Men  Green & Blue Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 136 times, Score: 5.95)
+- Status Quo Men's Blue Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 52 times, Score: 6.08)
+- Puma Men's Brazil Black Green T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 58 times, Score: 4.11)
+- United Colors of Benetton Men Solid Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 111 times, Score: 5.82)
+- Inkfruit Men's Indian Rule Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 53 times, Score: 5.01)
+- s.Oliver Men's What Up Cracker Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 36 times, Score: 4.44)
+- Turtle Check Men Yellow Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 40 times, Score: 4.49)","I recommend wearing your Arrow Men  Green & Blue Check Shirt (cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Fall. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 136 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your United Colors of Benetton Men Solid Blue Shirts (cotton) for your office meeting. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 111 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Bottomwear: Highlander Men Classic Chinos Beige Trousers (Material: cotton, Worn: 31 times, Score: 5.72)
+* Topwear: Basics Men Beige Trousers [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 36 times, Score: 4.51)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing outfit, you're reducing the need for new, resource-intensive garments.
+2. Seasonal relevance: The beige trousers are suitable for Fall, making them a great choice for the current season.
+3. Material: Cotton is a natural, biodegradable material that's a more sustainable choice compared to synthetic materials.
+4. Score: Both the Highlander trousers and the Basics beige trousers have high scores, indicating they're well-loved and well-maintained pieces in",True,False,,6,True,False,,5,200,False,True
+39,"User Request: I have a formal dinner today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Denizen Women Greenish Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 24 times, Score: 4.39)
+- United Colors of Benetton Women Solid Purple Shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 3 times, Score: 3.78)
+- Jockey Black Shorts [Category: Loungewear and Nightwear, Season: Winter] (Material: cotton|elastane, Worn: 13 times, Score: 3.58)
+- Jealous 21 Women Lavender Purple Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 20 times, Score: 3.52)
+- Vishudh Women Blue Printed Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 12 times, Score: 4.07)
+- Amante Pink Full-Coverage Lace Bra BCFR11 [Category: Innerwear, Season: Winter] (Material: nylon|elastane, Worn: 27 times, Score: 2.65)
+- W Women Printed Cream Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 125 times, Score: 6.03)
+- Pieces Women Peach Leggings [Category: Bottomwear, Season: Fall] (Material: nylon|elastane, Worn: 2 times, Score: 2.53)
+- Roxy Women Mustard Yellow Top [Category: Topwear, Season: Winter] (Material: cotton, Worn: 87 times, Score: 5.62)
+- Alma Women Printed White Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 34 times, Score: 4.27)
+- Amante Women Peach-Coloured Briefs PCPP01 [Category: Innerwear, Season: Winter] (Material: nylon|elastane, Worn: 65 times, Score: 3.61)
+- s.Oliver Women Blue Top [Category: Topwear, Season: Fall] (Material: nylon|elastane, Worn: 18 times, Score: 3.11)
+- Enamor Women Green Bikini Brief [Category: Innerwear, Season: Summer] (Material: polyester|elastane, Worn: 17 times, Score: 3.59)
+- Amante Peach-Coloured Demi-Cup Balconette Bra BCPP01 [Category: Innerwear, Season: Winter] (Material: cotton|elastane, Worn: 39 times, Score: 4.66)
+- Fabindia Women Printed Magenta Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 88 times, Score: 5.36)","I recommend wearing your Fabindia Women Printed Magenta Kurta (cotton) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 88 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Fabindia Women Printed Magenta Kurta (cotton) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 88 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","What a wonderful wardrobe you have! I'm excited to create a sustainable outfit for your formal dinner using only the items you already own.
+
+For a summer evening formal dinner, I recommend the following outfit:
+
+* Bottomwear: Denizen Women Greenish Blue Jeans (Material: cotton|elastane, Worn: 24 times, Score: 4.39)
+* Topwear: Vishudh Women Blue Printed Kurta (Material: cotton, Worn: 12 times, Score: 4.07)
+* Accessories: None needed, as the kurta is a beautiful, eye-catching piece that can be dressed up or down.
+
+Why is this outfit the more sustainable choice?
+
+1. **Reuse**: By choosing an existing piece from your wardrobe, we're reducing the need for new, resource-intensive garments. This reduces the environmental impact of production, transportation, and packaging.
+2. **Lower-impact materials**: Both the Denizen jeans and the Vishudh kurta are made",True,False,,6,True,False,,9,200,False,True
+40,"User Request: I have a casual lunch today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Just Natural Men Navy Blue & Black Reversible Jacket [Category: Topwear, Season: Summer] (Material: polyester, Worn: 121 times, Score: 5.31)
+- Nike Men Remix Crew Blue Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 44 times, Score: 4.79)
+- Do u speak green Men Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton|bamboo, Worn: 144 times, Score: 6.47)
+- Classic Polo Men Stripes Blue Polo T-Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 51 times, Score: 4.95)
+- Puma Deccan Chargers Mens Replica Jersey [Category: Topwear, Season: Winter] (Material: polyester, Worn: 33 times, Score: 4.08)
+- Basics Men Grey & White Striped T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 78 times, Score: 5.24)
+- Puma Men Story Graphic Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 78 times, Score: 5.55)
+- Facit Men Blue String Bikini Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 117 times, Score: 5.7)
+- ADIDAS Men Navy Short [Category: Bottomwear, Season: Fall] (Material: polyester, Worn: 18 times, Score: 3.78)
+- Flying Machine Men Check Blue Shirts [Category: Topwear, Season: Winter] (Material: cotton, Worn: 123 times, Score: 5.97)
+- United Colors of Benetton Men Solid Grey Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 73 times, Score: 5.15)
+- U.S. Polo Assn. Men Stripes Blue Polo Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 25 times, Score: 4.23)
+- Indigo Nation Men Checks Purple Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 23 times, Score: 4.18)
+- Probase Navy Boxers [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 28 times, Score: 4.28)
+- Probase Men Yellow Shorts [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 14 times, Score: 3.48)","I recommend wearing your Do u speak green Men Green T-shirt (cotton|bamboo) paired with your ADIDAS Men Navy Short (polyester) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 162 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Do u speak green Men Green T-shirt (cotton|bamboo) paired with your ADIDAS Men Navy Short (polyester) for your casual lunch. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 151 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch in Spring:
+
+* Top: Do u speak green Men Green T-shirt (Material: cotton|bamboo, Worn: 144 times, Score: 6.47)
+* Bottom: ADIDAS Men Navy Short (Material: polyester, Worn: 18 times, Score: 3.78)
+
+Why is this the more sustainable choice?
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes the environmental impact of production, transportation, and packaging.
+2. Lower-impact materials: The Do u speak green Men Green T-shirt is made from a blend of cotton and bamboo, which is a more sustainable material combination compared to polyester. Cotton is a natural, biodegradable fiber, and bamboo is a highly renewable resource.
+3. Seasonal relevance: The outfit is suitable for Spring weather, as the navy",True,False,,6,True,True,,7,200,False,True
+41,"User Request: I have a university class today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Fila Men's Round Neck Red Black T-shirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 34 times, Score: 4.51)
+- Tantra Men Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 5 times, Score: 4.03)
+- Puma Men's Lifestyle Mood Indigo Navy T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 9 times, Score: 3.74)
+- Nike Men Kobe Old Master Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 12 times, Score: 3.79)
+- Do u speak green Men Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 54 times, Score: 5.02)
+- Wrangler Men Dark Purple Shirt [Category: Topwear, Season: Winter] (Material: cotton, Worn: 48 times, Score: 4.59)
+- Puma Men Dizzy Graphic Green T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 50 times, Score: 5.97)
+- Peter England Men Green Casual T-shirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 57 times, Score: 4.78)
+- Indigo Nation Men Stripes White Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 30 times, Score: 5.24)
+- Arrow Men  Autoflex Brown Trousers [Category: Bottomwear, Season: Fall] (Material: polyester|viscose|elastane, Worn: 90 times, Score: 5.56)
+- United Colors of Benetton Men Printed Black Sweatshirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 63 times, Score: 4.82)
+- United Colors of Benetton Men Solid Black Sweater [Category: Topwear, Season: Fall] (Material: wool|nylon, Worn: 17 times, Score: 4.62)
+- Proline Men Burgundy Striped Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 0 times, Score: 4.24)
+- Scullers Men Scul Brown Trousers [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 113 times, Score: 6.86)
+- Tantra Men's Nerds Light Brown T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 40 times, Score: 4.4)","I recommend wearing your Wrangler Men Dark Purple Shirt (cotton) for your university class. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 48 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Wrangler Men Dark Purple Shirt (cotton) for your university class. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 48 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: Wrangler Men Dark Purple Shirt (Category: Topwear, Season: Winter) (Material: cotton, Worn: 48 times, Score: 4.59)
+* Bottom: Arrow Men Autoflex Brown Trousers (Category: Bottomwear, Season: Fall) (Material: polyester|viscose|elastane, Worn: 90 times, Score: 5.56)
+
+I chose this outfit for several reasons:
+
+1. Reuse: Both the top and bottom are already-owned garments that have been worn multiple times, reducing the need for new purchases.
+2. Seasonal relevance: The Wrangler Men Dark Purple Shirt is suitable for the winter season, making it a practical choice for your university class.
+3. Material choice: While not all the materials used in your wardrobe are sustainable, cotton is a natural, biodegradable, and renewable resource. Polyester",True,False,,6,True,False,,7,200,False,True
+42,"User Request: I have a weekend errand today. It is currently Spring. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Fabindia Women Purple & Blue Striped Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 35 times, Score: 4.58)
+- United Colors Of Benetton Women Light Winter Red Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 4 times, Score: 3.78)
+- Puma Women Ess Striped White Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 31 times, Score: 5.15)
+- French Connection Women Navy Blue Leggings [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 2 times, Score: 3.43)
+- Jealous 21 Women Printed White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 98 times, Score: 5.87)
+- Aurelia Women White Leggings [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 53 times, Score: 5.04)
+- Flying Machine Women Lowrise Black Jeans [Category: Bottomwear, Season: Fall] (Material: cotton|polyester|elastane, Worn: 2 times, Score: 2.58)
+- Urban Yoga Women Printed Black Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 160 times, Score: 7.03)
+- Fabindia Women H& Printed Black Sari [Category: Saree, Season: Summer] (Material: cotton, Worn: 22 times, Score: 4.15)
+- Pieces Women Turquoise Blue Leggings [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 111 times, Score: 6.02)
+- Visudh Women Printed Rust Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 2 times, Score: 3.67)
+- Mother Earth Women Printed Blue Kurtis [Category: Topwear, Season: Fall] (Material: cotton, Worn: 64 times, Score: 5.31)
+- Fabindia Burgundy Silk Hand Printed Sari [Category: Saree, Season: Summer] (Material: silk, Worn: 34 times, Score: 1.56)
+- Peri Peri Women Black  Bra [Category: Innerwear, Season: Summer] (Material: nylon|elastane, Worn: 76 times, Score: 4.72)
+- Latin Quarters Women Maroon Shrug [Category: Topwear, Season: Fall] (Material: viscose, Worn: 89 times, Score: 5.23)","I recommend wearing your Urban Yoga Women Printed Black Tshirt (cotton) paired with your Pieces Women Turquoise Blue Leggings (cotton|elastane) for your weekend errand. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 271 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Urban Yoga Women Printed Black Tshirt (cotton) paired with your Pieces Women Turquoise Blue Leggings (cotton|elastane) for your weekend errand. These items are the best available option from your wardrobe, though not specifically tagged for Spring. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 271 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your weekend errand:
+
+* Top: Urban Yoga Women Printed Black T-shirt (Category: Topwear, Season: Fall) (Material: cotton, Worn: 160 times, Score: 7.03)
+* Bottom: Aurelia Women White Leggings (Category: Bottomwear, Season: Summer) (Material: cotton, Worn: 53 times, Score: 5.04)
+
+Why this outfit is the more sustainable choice:
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which reduces waste and minimizes the environmental impact of production, transportation, and packaging.
+2. High-wear scores: Both the Urban Yoga Women Printed Black T-shirt and Aurelia Women White Leggings have high wear scores, indicating that they have been worn frequently and are likely to continue being worn in the future. This reduces the likelihood of them being",True,False,,6,True,True,,6,200,False,True
+43,"User Request: I have a office meeting today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- ADIDAS Men Green Polo T-shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 154 times, Score: 5.14)
+- Basics Men Black Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 60 times, Score: 5.11)
+- Batman Men's Logo Neon Glow Black T-shirt [Category: Topwear, Season: Fall] (Material: cotton|polyester, Worn: 96 times, Score: 6.76)
+- Free Authority Men's Army Washed Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 175 times, Score: 5.92)
+- Mr.Men Men's Placid Blue T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 37 times, Score: 4.66)
+- Indigo Nation Men Striped Purple Shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 55 times, Score: 4.46)
+- Probase Men Stripes Pink Polo T-shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 14 times, Score: 4.17)
+- Probase Men Stripes Maroon Polo T-shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 111 times, Score: 6.0)
+- French Connection Men Navy Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 91 times, Score: 5.28)
+- Kochi Tuskers Mens Practice Replica Jersey [Category: Topwear, Season: Summer] (Material: polyester, Worn: 36 times, Score: 4.01)
+- Proline Men Grey Polo Tshirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 29 times, Score: 4.54)
+- Classic Polo Men's Swiss Red T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 109 times, Score: 5.86)
+- U.S. Polo Assn. Men Stripes Red Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 28 times, Score: 4.56)
+- Nike Men's As Colorblock Red T-shirt [Category: Topwear, Season: Summer] (Material: cotton|polyester, Worn: 9 times, Score: 3.52)
+- Myntra Men White and Navy Blue Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 25 times, Score: 4.15)","I recommend wearing your Indigo Nation Men Striped Purple Shirt (polyester) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Fall. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 55 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Batman Men's Logo Neon Glow Black T-shirt (cotton|polyester) for your office meeting. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 96 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Batman Men's Logo Neon Glow Black T-shirt (Category: Topwear, Season: Fall) (Material: cotton|polyester, Worn: 96 times, Score: 6.76)
+* French Connection Men Navy Blue Jeans (Category: Bottomwear, Season: Summer) (Material: cotton|elastane, Worn: 91 times, Score: 5.28)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes waste and supports a more sustainable fashion approach.
+2. Seasonal relevance: The Batman Men's Logo Neon Glow Black T-shirt is suitable for Fall, making it a great choice for the current season.
+3. Material choice: Both the t-shirt and jeans are made from natural fibers (cotton) or blends",True,False,,6,True,True,,5,200,False,True
+44,"User Request: I have a office meeting today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Classic Polo Men Black T-Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 4 times, Score: 4.73)
+- Proline Men Red Round Neck T-shirt [Category: Topwear, Season: Fall] (Material: polyester, Worn: 83 times, Score: 4.79)
+- Puma Men Jersey Long Grey Track Pant [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 77 times, Score: 5.51)
+- Puma Men Red Polo T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 76 times, Score: 5.31)
+- Facit Men Mid- Rise BF Charcoal Briefs [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 26 times, Score: 4.33)
+- United Colors of Benetton Men Summer Blue Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 130 times, Score: 5.92)
+- Tantra Men's Shanti White T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 12 times, Score: 3.79)
+- Tantra Men Circles Black T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 54 times, Score: 5.06)
+- Genesis Men Green & Purple Striped Shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 80 times, Score: 5.51)
+- John Players Men Check White & Green Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 10 times, Score: 4.16)
+- Classic Polo Men's Navy With White Stripes T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 34 times, Score: 3.33)
+- Puma Men's Pop Graphic White T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 91 times, Score: 4.92)
+- Puma Men Rugby Navy Blue TShirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 95 times, Score: 5.56)
+- Locomotive Men Navy Blue Check Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 27 times, Score: 4.4)
+- Basics Men Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 34 times, Score: 4.6)","I recommend wearing your Genesis Men Green & Purple Striped Shirt (cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 80 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Puma Men Rugby Navy Blue TShirt (cotton) paired with your Puma Men Jersey Long Grey Track Pant (cotton) for your office meeting. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 182 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your office meeting:
+
+* Top: Puma Men Rugby Navy Blue TShirt (Category: Topwear, Season: Fall) (Material: cotton, Worn: 95 times, Score: 5.56)
+* Bottom: Puma Men Jersey Long Grey Track Pant (Category: Bottomwear, Season: Fall) (Material: cotton, Worn: 77 times, Score: 5.51)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing an existing garment, you're reducing the need for new, resource-intensive production.
+2. Seasonal relevance: Both the top and bottom are suitable for winter, making them a practical choice for the current season.
+3. Material: Cotton is a natural, biodegradable material that's a more sustainable choice compared to synthetic materials like polyester.
+4. Score: Both garments have high scores, indicating they're well-loved and well",True,False,,6,True,False,,5,200,False,True
+45,"User Request: I have a formal dinner today. It is currently Summer. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- BIBA Women Printed Purple Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 40 times, Score: 4.04)
+- Little Miss Women Printed Green Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 19 times, Score: 5.11)
+- Jealous 21 Women Jealous Eirny Green Top Green T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 84 times, Score: 5.61)
+- Alma Women Blue Printed Kurta [Category: Topwear, Season: Fall] (Material: cotton, Worn: 12 times, Score: 4.05)
+- Alma Women White Printed Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 73 times, Score: 5.3)
+- Jockey Women Navy Blue Lounge Shorts [Category: Loungewear and Nightwear, Season: Winter] (Material: cotton|elastane, Worn: 18 times, Score: 4.27)
+- Jealous 21 Women Washed Light Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 59 times, Score: 5.02)
+- Fabindia Women Printed Off White Dupatta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 25 times, Score: 5.5)
+- French Connection Women Black Trouser [Category: Bottomwear, Season: Summer] (Material: cotton|elastane, Worn: 9 times, Score: 4.02)
+- Just Natural Unisex Black and Olive Reversible Rain Jacket [Category: Topwear, Season: Summer] (Material: polyester, Worn: 67 times, Score: 4.5)
+- Avirate Black Hi-Leg Brief [Category: Innerwear, Season: Summer] (Material: nylon, Worn: 10 times, Score: 2.8)
+- Nike Women Blue Polo T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 43 times, Score: 4.83)
+- United Colors of Benetton Women Green Top [Category: Topwear, Season: Fall] (Material: modal, Worn: 67 times, Score: 5.3)
+- Nike Women Sphere Red T-shirt [Category: Topwear, Season: Summer] (Material: polyester, Worn: 42 times, Score: 4.31)
+- Lee Women Apple Coral Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 44 times, Score: 3.81)","I recommend wearing your Fabindia Women Printed Off White Dupatta (cotton) paired with your French Connection Women Black Trouser (cotton|elastane) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 34 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Fabindia Women Printed Off White Dupatta (cotton) for your formal dinner. These items are perfectly suited for the Summer weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 25 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","What a wonderful wardrobe you have! I'm excited to create a sustainable outfit for your formal dinner tonight.
+
+Considering the summer season and the occasion, I recommend the following outfit:
+
+**Top:** Alma Women White Printed Kurta (Category: Topwear, Season: Summer) - Score: 5.3
+This kurta is a great choice for a formal dinner, and its cotton material is breathable and comfortable for the summer weather. With 73 times of wear, it's already broken in, and its score indicates it's a well-loved piece.
+
+**Bottom:** Jealous 21 Women Washed Light Blue Jeans (Category: Bottomwear, Season: Summer) - Score: 5.02
+These jeans are a versatile and comfortable choice for a formal dinner. The washed look gives them a relaxed, yet stylish appearance. With 59 times of wear, they're already well-worn and broken in.
+
+**Accessories:** Fabindia Women Printed Off White Dupatta (Category",True,False,,6,True,False,,4,200,False,True
+46,"User Request: I have a university class today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Fabindia Women Blue Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 18 times, Score: 5.04)
+- United Colors Of Benetton Women Light Winter Pink Tops [Category: Topwear, Season: Fall] (Material: cotton, Worn: 77 times, Score: 4.53)
+- Aurelia Women Green Kurti [Category: Topwear, Season: Summer] (Material: cotton, Worn: 29 times, Score: 3.19)
+- Jealous 21 Women Washed Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton|polyester|elastane, Worn: 87 times, Score: 5.24)
+- Enamor Women Pink Highspirit Nightdress [Category: Loungewear and Nightwear, Season: Summer] (Material: polyester|viscose, Worn: 5 times, Score: 3.34)
+- Puma Women's Softest Touch Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 18 times, Score: 4.32)
+- Delhi Daredevils Womens Match Jersey [Category: Topwear, Season: Summer] (Material: polyester, Worn: 124 times, Score: 5.61)
+- Arrow Woman Red Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 50 times, Score: 4.66)
+- Forever New Women's White Blue Printed Top [Category: Topwear, Season: Summer] (Material: cotton|modal, Worn: 6 times, Score: 4.01)
+- Tonga Women White Dress [Category: Dress, Season: Fall] (Material: polyester|elastane, Worn: 69 times, Score: 4.61)
+- s.Oliver Women Printed Grey Top [Category: Topwear, Season: Fall] (Material: cotton, Worn: 6 times, Score: 4.06)
+- s.Oliver Women Layered Navy Blue Top [Category: Topwear, Season: Fall] (Material: cotton, Worn: 71 times, Score: 6.49)
+- Spykar Women Blue Slim Fit Jeans [Category: Bottomwear, Season: Fall] (Material: cotton|elastane, Worn: 119 times, Score: 5.47)
+- Peri Peri Women Black Bra [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 14 times, Score: 4.12)
+- Jealous 21 Women Pink Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 35 times, Score: 3.82)","I recommend wearing your s.Oliver Women Layered Navy Blue Top (cotton) paired with your Spykar Women Blue Slim Fit Jeans (cotton|elastane) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 190 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your s.Oliver Women Layered Navy Blue Top (cotton) paired with your Spykar Women Blue Slim Fit Jeans (cotton|elastane) for your university class. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 190 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your university class today:
+
+* Top: United Colors Of Benetton Women Light Winter Pink Tops (Category: Topwear, Season: Fall) (Material: cotton, Worn: 77 times, Score: 4.53)
+* Bottom: Spykar Women Blue Slim Fit Jeans (Category: Bottomwear, Season: Fall) (Material: cotton|elastane, Worn: 119 times, Score: 5.47)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing an outfit from your existing wardrobe, you're reducing the need to buy new clothes, which minimizes waste and supports sustainable fashion.
+2. Seasonal relevance: Both the top and bottom are suitable for the Fall season, ensuring you're dressed appropriately for the weather.
+3. Material choice: Both pieces are made from cotton, a natural, breathable, and biodegradable material. This",True,False,,6,True,True,,5,200,False,True
+47,"User Request: I have a formal dinner today. It is currently Winter. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- BIBA Women Printed Yellow Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 10 times, Score: 4.83)
+- French Connection Women Blue Dress [Category: Dress, Season: Winter] (Material: cotton, Worn: 138 times, Score: 5.17)
+- PUMA Women Yellow Printed T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 43 times, Score: 4.3)
+- W Women Printed Purple Kurta [Category: Topwear, Season: Summer] (Material: cotton, Worn: 96 times, Score: 5.86)
+- Scullers For Her Women Layered  Brown Tunics [Category: Topwear, Season: Fall] (Material: polyester, Worn: 43 times, Score: 5.45)
+- Lovable Cotton Essensuals White Bra [Category: Innerwear, Season: Spring] (Material: cotton, Worn: 115 times, Score: 6.06)
+- Mother Earth Women Aug Bagru Red Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 113 times, Score: 5.64)
+- W Women Solid Maroon Leggings [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 117 times, Score: 5.96)
+- Aurelia Women Red Leggings [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 48 times, Score: 4.52)
+- Tonga Women Printed Red Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 21 times, Score: 3.27)
+- Little Miss Women Green Printed T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 40 times, Score: 4.64)
+- Tonga Women Black & Red Top [Category: Topwear, Season: Summer] (Material: polyester|elastane, Worn: 138 times, Score: 5.47)
+- French Connection Women Green Dress [Category: Dress, Season: Winter] (Material: cotton|modal, Worn: 104 times, Score: 6.75)
+- Tonga Women White Top [Category: Topwear, Season: Summer] (Material: polyester, Worn: 72 times, Score: 5.0)
+- Nike Women As Miler Ss White T-Shirts [Category: Topwear, Season: Fall] (Material: polyester, Worn: 99 times, Score: 5.59)","I recommend wearing your W Women Printed Purple Kurta (cotton) paired with your W Women Solid Maroon Leggings (cotton) for your formal dinner. These items are the best available option from your wardrobe, though not specifically tagged for Winter. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 213 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your French Connection Women Green Dress (cotton|modal) for your formal dinner. These items are perfectly suited for the Winter weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 104 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","What a wonderful wardrobe you have! I'm excited to create a sustainable outfit for your formal dinner tonight.
+
+Considering the winter season and the formal occasion, I recommend the following outfit:
+
+* French Connection Women Blue Dress [Category: Dress, Season: Winter] (Material: cotton, Worn: 138 times, Score: 5.17)
+* W Women Solid Maroon Leggings [Category: Bottomwear, Season: Fall] (Material: cotton, Worn: 117 times, Score: 5.96)
+
+Why this outfit?
+
+1. Reuse: By choosing an existing garment, we're reducing the need for new, resource-intensive production.
+2. Seasonal relevance: The French Connection Blue Dress is specifically designed for winter, making it a perfect choice for the current season.
+3. Material: Cotton is a natural, biodegradable, and renewable material, which is a more sustainable choice compared to synthetic materials like polyester.
+4. Score: Both garments have high scores",True,False,,6,True,False,,5,200,False,True
+48,"User Request: I have a casual lunch today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- Little Miss Women Flower Yellow Tshirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 67 times, Score: 5.05)
+- Peri Peri Women Black Bra [Category: Innerwear, Season: Summer] (Material: cotton|elastane, Worn: 17 times, Score: 3.91)
+- Mineral Women White Top [Category: Topwear, Season: Summer] (Material: cotton, Worn: 63 times, Score: 5.19)
+- Lee Women Jane Blue Striped Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 49 times, Score: 4.74)
+- United Colors of Benetton Women White Shirt [Category: Topwear, Season: Summer] (Material: cotton|elastane, Worn: 30 times, Score: 4.1)
+- United Colors of Benetton Women Purple Shirt [Category: Topwear, Season: Summer] (Material: linen|cotton, Worn: 89 times, Score: 5.81)
+- Myntra Women Peach Peace Love Chocolate T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 49 times, Score: 4.87)
+- Elle Women Olive Green Top [Category: Topwear, Season: Summer] (Material: polyester|cotton, Worn: 13 times, Score: 3.48)
+- Mineral Women Teal Tunic [Category: Topwear, Season: Summer] (Material: cotton, Worn: 26 times, Score: 5.55)
+- Jealous 21 Women Black Shimmery Falling Neck Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 6 times, Score: 4.72)
+- Lee Women Grey Glorious Shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 18 times, Score: 2.89)
+- ADIDAS Women Graphic Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 127 times, Score: 5.17)
+- Forever New Women Peach With Polka Dots Top [Category: Topwear, Season: Summer] (Material: viscose, Worn: 27 times, Score: 4.01)
+- Jealous 21 Women's White Blue T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 111 times, Score: 5.79)
+- W Women Printed White Kurtas [Category: Topwear, Season: Fall] (Material: cotton, Worn: 97 times, Score: 5.87)","I recommend wearing your Little Miss Women Flower Yellow Tshirt (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 67 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your W Women Printed White Kurtas (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 97 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch in Fall:
+
+* Little Miss Women Flower Yellow Tshirt (Category: Topwear, Season: Fall) (Material: cotton, Worn: 67 times, Score: 5.05)
+* W Women Printed White Kurtas (Category: Topwear, Season: Fall) (Material: cotton, Worn: 97 times, Score: 5.87)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse of existing garments: By choosing the Little Miss Women Flower Yellow Tshirt and W Women Printed White Kurtas, you're reusing garments that are already in your wardrobe, reducing the need for new purchases.
+2. Seasonal relevance: Both the Little Miss Women Flower Yellow Tshirt and W Women Printed White Kurtas are suitable for Fall, ensuring you're dressed appropriately for the weather.
+3. Material choice: Both garments are made from cotton, a natural, biodegradable",True,False,,6,True,False,,6,200,False,True
+49,"User Request: I have a casual lunch today. It is currently Fall. Please recommend a complete, sustainable outfit from my wardrobe below that is appropriate for the weather, rather than me buying something new.
+
+My Wardrobe:
+- United Colors of Benetton Men Light Winter Black Sweatshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 12 times, Score: 5.29)
+- Chromozome Men Pack of Two Trunks [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 124 times, Score: 5.25)
+- Jockey ELANCE Men Red Briefs 1010 [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 149 times, Score: 5.42)
+- Spykar Men Printed White T-Shirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 150 times, Score: 6.0)
+- Levis Men Black and Blue Brief [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 33 times, Score: 5.7)
+- Hanes Men Black Relaxed Sports Pants [Category: Loungewear and Nightwear, Season: Summer] (Material: cotton, Worn: 44 times, Score: 4.64)
+- Playboy Men Printed Grey Brief [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 147 times, Score: 5.93)
+- Hanes Men Racer Back Grey Innerwear Vests [Category: Innerwear, Season: Summer] (Material: cotton, Worn: 53 times, Score: 4.85)
+- Timberland Men Bonded Fleece Full Zip Blue Jacket [Category: Topwear, Season: Fall] (Material: polyester, Worn: 33 times, Score: 3.96)
+- Lotto Men Kochi Tuskers Authentic Orange Jersey [Category: Topwear, Season: Summer] (Material: polyester, Worn: 13 times, Score: 4.89)
+- Nike Men Solid Off-White Polo Jerseys [Category: Topwear, Season: Fall] (Material: polyester, Worn: 56 times, Score: 5.65)
+- Probase Men Printed White Tshirts [Category: Topwear, Season: Fall] (Material: cotton, Worn: 20 times, Score: 5.22)
+- Tantra Men's Dot Com Maroon T-shirt [Category: Topwear, Season: Fall] (Material: cotton, Worn: 20 times, Score: 3.98)
+- Jack & Jones Men Blue Jeans [Category: Bottomwear, Season: Summer] (Material: cotton, Worn: 15 times, Score: 4.18)
+- UCB Men's Johny Collar With Two Tone Grey T-shirt [Category: Topwear, Season: Summer] (Material: cotton, Worn: 110 times, Score: 7.07)","I recommend wearing your Spykar Men Printed White T-Shirts (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 150 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","I recommend wearing your Spykar Men Printed White T-Shirts (cotton) for your casual lunch. These items are perfectly suited for the Fall weather. More importantly, this combination prioritizes lower-impact materials. Combined, these pieces have been worn 150 times, which supports lower-impact reuse compared to purchasing a new outfit. This is a practical, sustainable choice!","Based on your wardrobe, I recommend the following sustainable outfit for your casual lunch in Fall:
+
+* Top: United Colors of Benetton Men Light Winter Black Sweatshirts (Category: Topwear, Season: Fall) (Material: cotton, Worn: 12 times, Score: 5.29)
+* Bottom: Jack & Jones Men Blue Jeans (Category: Bottomwear, Season: Summer) (Material: cotton, Worn: 15 times, Score: 4.18)
+* Footwear: Not necessary, as you're not going out, but if you want to add a layer, you can wear the Hanes Men Black Relaxed Sports Pants (Category: Loungewear and Nightwear, Season: Summer) (Material: cotton, Worn: 44 times, Score: 4.64)
+
+This outfit is a great choice for several reasons:
+
+1. Reuse: By choosing items that have been worn multiple times, we're reducing the need for",True,False,,6,True,False,,4,200,False,True

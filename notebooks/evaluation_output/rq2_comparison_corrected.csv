@@ -1,0 +1,4 @@
+Metric,Fine-tuned,Base model,Difference
+Wardrobe Reuse Rate %,100.0,100.0,0.0
+Automated recommends buying new %,0.0,26.0,-26.0
+Mean distinct sustainability-keyword matches,6.04,5.82,0.22
